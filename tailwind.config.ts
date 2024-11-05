@@ -13,6 +13,12 @@ export default {
       secondary: '#2a4e7c',
       highlight: '#e0e0e0',
     },
+    fontFamily: {
+      heading: ['Orbitron', 'sans-serif'],
+      body: ['Roboto', 'sans-serif'],
+      subheading: ['Rajdhani', 'sans-serif'],
+      accent: ['Share Tech Mono', 'sans-serif']
+    },
     extend: {}
   },
 
