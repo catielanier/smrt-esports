@@ -18,6 +18,14 @@
 			@apply max-w-screen-md;
 			@apply my-3;
 			@apply mx-auto;
+			@apply sticky;
+			@apply top-1;
+			@apply z-50;
+			@apply left-1/2;
+			@apply -translate-x-1/2;
+			@apply bg-background;
+			@apply px-5;
+			@apply rounded-md;
 	}
 	.navigation-header nav img {
 			@apply w-24 h-16;
