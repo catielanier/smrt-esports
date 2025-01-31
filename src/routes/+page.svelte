@@ -86,4 +86,12 @@
 			</button>
 		</form>
 	</section>
+
+	{#if formSuccess}
+		<div class="bg-primary text-highlight text-center py-12">
+			<p class="text-xl font-subheading">
+				Your message has been sent successfully!
+			</p>
+		</div>
+	{/if}
 </div>
