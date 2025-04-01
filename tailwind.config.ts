@@ -1,9 +1,13 @@
-import typography from '@tailwindcss/typography';
 import type { Config } from 'tailwindcss';
+import typography from '@tailwindcss/typography';
 
 export default {
-  content: ['./src/**/*.{html,js,svelte,ts}'],
-
+  darkMode: ['class'],
+  content: [
+    './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/components/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/app/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
   theme: {
     colors: {
       background: '#121212',

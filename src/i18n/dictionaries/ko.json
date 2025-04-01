@@ -1,0 +1,50 @@
+{
+  "heading": "SMRT eSports",
+  "header": {
+    "home": "홈",
+    "about": "소개",
+    "mission": "미션",
+    "gallery": "갤러리",
+    "contact": "문의"
+  },
+  "about": {
+    "title": "소개",
+    "paragraphs": [
+      "SMRT eSports는 2017년에 e스포츠 토너먼트 주최자로 시작했습니다. 우리는 캐나다를 격투 게임 e스포츠의 글로벌 무대에서 대표할 필요성을 인식했고, 그래서 Team So SMRT가 창설되었습니다. 우리의 주요 성과에는 다음이 포함됩니다:",
+      {
+        "timeline": [
+          {
+            "year": "2019",
+            "achievements": [
+              "SMRT | HoldenTSF가 대만에서 열린 NeoGeo World Tour 2에서 '더 킹 오브 파이터즈 ‘98'로 캐나다를 대표했습니다.",
+              "SMRT | AlvinKOF가 대만에서 열린 NeoGeo World Tour 2에서 '더 킹 오브 파이터즈 14'로 캐나다를 대표했습니다."
+            ]
+          },
+          {
+            "year": "2018",
+            "achievements": ["SMRT | Missing Person이 Anime Evo에서 '세일러문 S'로 2위를 차지했습니다."]
+          }
+        ]
+      },
+      "2024년부터 우리는 온타리오주 배리에서의 오프라인 이벤트를 통해 국내 격투 게임 e스포츠 인재 양성에 집중하고 있습니다."
+    ]
+  },
+  "mission": {
+    "title": "미션 및 비전",
+    "paragraphs": [
+      "SMRT eSports는 격투 게임 e스포츠(예: 킹 오브 파이터즈, 스트리트 파이터, 철권)를 통해 캐나다의 인재를 육성하고 관광을 촉진하는 것을 목표로 하는 비영리 단체입니다.",
+      "격투 게임은 사람들에게 장애물이 없는 환경에서 회복력을 기를 수 있는 기회를 제공합니다.",
+      "SMRT eSports는 격투 게임 플레이어 커뮤니티가 협력, 문제 해결, 회복력을 개발할 수 있도록 노력하고 있습니다. 우리의 목표는 격투 게임 e스포츠를 통해 학습되는 이러한 전이 가능한 삶의 기술을 홍보하는 것입니다."
+    ]
+  },
+  "contact": {
+    "title": "문의하기",
+    "placeholders": {
+      "name": "이름",
+      "email": "이메일",
+      "message": "메시지"
+    },
+    "submit": "메시지 보내기",
+    "success": "메시지가 성공적으로 전송되었습니다!"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "heading": "SMRT eSports",
+  "header": {
+    "home": "首页",
+    "about": "关于",
+    "mission": "使命",
+    "gallery": "画廊",
+    "contact": "联系"
+  },
+  "about": {
+    "title": "关于我们",
+    "paragraphs": [
+      "SMRT eSports 成立于 2017 年，最初是一个电子竞技赛事的举办方。我们发现了让加拿大在格斗游戏电子竞技领域于全球舞台上占据一席之地的必要性，因此成立了 Team So SMRT。我们的主要成就包括：",
+      {
+        "timeline": [
+          {
+            "year": "2019",
+            "achievements": [
+              "SMRT | HoldenTSF 代表加拿大参加在台湾举办的 NeoGeo 世界巡回赛 2 并竞技于 格斗天王 '98",
+              "SMRT | AlvinKOF 代表加拿大参加在台湾举办的 NeoGeo 世界巡回赛 2 并竞技于 格斗天王 14"
+            ]
+          },
+          {
+            "year": "2018",
+            "achievements": ["SMRT | Missing Person 在 Anime Evo 的 美少女战士 S 比赛中获得了第二名"]
+          }
+        ]
+      },
+      "自 2024 年起，我们重新专注于通过在安大略省巴里市的实体活动，推动国内格斗游戏电子竞技人才的发展。"
+    ]
+  },
+  "mission": {
+    "title": "使命与愿景",
+    "paragraphs": [
+      "SMRT eSports 是一家非营利性机构，旨在提升加拿大格斗游戏人才, 并通过格斗游戏电子竞技（如拳皇、街头霸王和铁拳）来推广旅游业。",
+      "格斗游戏可让人们在无障碍的环境中发展韧性。",
+      "SMRT eSports 致力于在格斗游戏玩家社群中培养团体合作、解决问题能力和韧性。我们的目标是推广从格斗游戏电子竞技中学到的灵活应用在现实生活当中。"
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "placeholders": {
+      "name": "您的姓名",
+      "email": "您的邮箱",
+      "message": "您的留言"
+    },
+    "submit": "发送留言",
+    "success": "您的留言已成功发送！"
+  }
+}

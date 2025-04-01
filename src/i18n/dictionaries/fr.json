@@ -1,0 +1,50 @@
+{
+  "heading": "SMRT eSports",
+  "header": {
+    "home": "Accueil",
+    "about": "À propos",
+    "mission": "Mission",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "paragraphs": [
+      "SMRT eSports a commencé en tant qu'organisateur de tournois d'eSports en 2017. Nous avons identifié le besoin de représenter le Canada sur la scène mondiale dans les jeux de combat eSports, et ainsi, l'équipe So SMRT a été créée. Une courte liste de nos réalisations inclut :",
+      {
+        "timeline": [
+          {
+            "year": "2019",
+            "achievements": [
+              "SMRT | HoldenTSF a représenté le Canada lors du NeoGeo World Tour 2 à Taïwan pour The King of Fighters '98",
+              "SMRT | AlvinKOF a représenté le Canada lors du NeoGeo World Tour 2 à Taïwan pour The King of Fighters 14"
+            ]
+          },
+          {
+            "year": "2018",
+            "achievements": ["SMRT | Missing Person a obtenu la 2ème place dans Sailor Moon S à Anime Evo"]
+          }
+        ]
+      },
+      "À partir de 2024, nous avons recentré notre attention sur la promotion des talents d'eSports en jeux de combat au niveau national avec des événements hors ligne à Barrie, en Ontario."
+    ]
+  },
+  "mission": {
+    "title": "Mission et Vision",
+    "paragraphs": [
+      "SMRT eSports est une organisation à but non lucratif ayant pour mission d'élever le talent canadien et de promouvoir le tourisme à travers les jeux de combat eSports (par exemple, King of Fighters, Street Fighter et Tekken).",
+      "Les jeux de combat permettent aux individus de développer de la résilience dans un environnement sans obstacle.",
+      "SMRT eSports s'efforce de développer la collaboration, la résolution de problèmes et la résilience au sein de notre communauté de joueurs de jeux de combat. Notre objectif est de promouvoir ces compétences de vie transférables acquises grâce aux jeux de combat eSports."
+    ]
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "placeholders": {
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "message": "Votre Message"
+    },
+    "submit": "Envoyer le Message",
+    "success": "Votre message a été envoyé avec succès !"
+  }
+}
