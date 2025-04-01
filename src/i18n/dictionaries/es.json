@@ -1,0 +1,50 @@
+{
+  "heading": "SMRT eSports",
+  "header": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "mission": "Misión",
+    "gallery": "Galería",
+    "contact": "Contacto"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "paragraphs": [
+      "SMRT eSports comenzó como un organizador de torneos de esports en 2017. Identificamos la necesidad de representar a Canadá en el escenario global en esports de juegos de lucha, y así se creó el equipo Team So SMRT. Una breve lista de nuestros logros incluye:",
+      {
+        "timeline": [
+          {
+            "year": "2019",
+            "achievements": [
+              "SMRT | HoldenTSF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters '98",
+              "SMRT | AlvinKOF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters 14"
+            ]
+          },
+          {
+            "year": "2018",
+            "achievements": ["SMRT | Missing Person quedó en 2.º lugar en Sailor Moon S en Anime Evo"]
+          }
+        ]
+      },
+      "A partir de 2024, hemos redirigido nuestra atención hacia la promoción de talentos de esports en juegos de lucha a nivel nacional con eventos presenciales en Barrie, Ontario."
+    ]
+  },
+  "mission": {
+    "title": "Misión y Visión",
+    "paragraphs": [
+      "SMRT eSports es una corporación sin fines de lucro con la misión de elevar el talento canadiense y promover el turismo a través de los esports de juegos de lucha (es decir, King of Fighters, Street Fighter y Tekken).",
+      "Los juegos de lucha permiten a las personas desarrollar resiliencia en un entorno sin barreras.",
+      "SMRT eSports se esfuerza por desarrollar la colaboración, la resolución de problemas y la resiliencia en nuestra comunidad de jugadores de juegos de lucha. Nuestro objetivo es promover estas habilidades transferibles de la vida que se aprenden a través de los esports de juegos de lucha."
+    ]
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "placeholders": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "message": "Tu Mensaje"
+    },
+    "submit": "Enviar Mensaje",
+    "success": "¡Tu mensaje ha sido enviado con éxito!"
+  }
+}
