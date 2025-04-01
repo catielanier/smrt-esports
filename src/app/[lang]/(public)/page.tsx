@@ -2,6 +2,7 @@ import getDictionary from '@/i18n/getDictionary';
 import React from 'react';
 import Contact from '@/components/Contact';
 import Header from '@/components/Header';
+import Gallery from '@/components/Gallery';
 
 export default async function Home({
   params,
@@ -56,6 +57,7 @@ export default async function Home({
             </div>
           </div>
         </section>
+        <Gallery />
         <Contact dict={dict} />
       </main>
     </>
