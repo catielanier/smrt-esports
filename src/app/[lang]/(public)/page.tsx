@@ -17,8 +17,17 @@ export default async function Home({
     <>
       <main className={'bg-background text-text font-body min-h-screen'}>
         <Header dict={dict} />
-        <header className={'text-highlight text-center py-12 justify-center items-center flex'}>
-          <h1 className={'text-8xl font-heading text-bold'}>{dict.heading}</h1>
+        <header className={'text-highlight text-center justify-center items-center flex'}>
+          <video
+            autoPlay={true}
+            controls={false}
+            loop={true}
+            muted={true}
+            disableRemotePlayback
+            disablePictureInPicture
+          >
+            <source src="/smrt.webm" type="video/webm" />
+          </video>
         </header>
         <section className={'py-12 px-6'} id={'about'}>
           <div className={'inner'}>

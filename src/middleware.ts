@@ -17,11 +17,12 @@ function getLocale(request: NextRequest) {
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  // 🚀 Exclude ALL static assets (except JS)
-  if (/\.(ico|png|jpg|jpeg|svg|gif|webp|woff2|ttf|eot|mp4|webm|ogg|mp3|wav|json|map)$/.test(pathname)) {
+  // 🚀 Exclude all static assets (except JS & CSS)
+  if (/\.(ico|png|jpg|jpeg|svg|gif|webp|woff2|ttf|eot|mp4|webm|ogg|mp3|wav|json|map)(\?.*)?$/.test(pathname)) {
     console.log('Skipping middleware for static file:', pathname);
     return NextResponse.next();
   }
+
   // Check if the pathname already includes a locale
   const pathnameHasLocale = i18n.locales.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`,
@@ -35,5 +36,7 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ['/((?!_next/|favicon.ico).*)'],
+  matcher: [
+    '/((?!_next/|favicon.ico|.*\\.(?:ico|png|jpg|jpeg|svg|gif|webp|woff2|ttf|eot|mp4|webm|ogg|mp3|wav|json|map|js|css)$).*)',
+  ],
 };
