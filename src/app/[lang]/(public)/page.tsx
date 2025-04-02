@@ -29,7 +29,7 @@ export default async function Home({
             <source src="/smrt.webm" type="video/webm" />
           </video>
         </header>
-        <section className={'py-12 px-6'} id={'about'}>
+        <section className={'pb-12 pt-16 px-6'} id={'about'}>
           <div className={'inner'}>
             <h2 className={'text-3xl font-heading text-accent'}>{dict.about.title}</h2>
             {dict.about.paragraphs.map((paragraph, index) =>
@@ -54,7 +54,7 @@ export default async function Home({
             )}
           </div>
         </section>
-        <section className={'py-12 px-6 bg-secondary text-highlight'} id={'mission'}>
+        <section className={'pb-12 pt-16 px-6 bg-secondary text-highlight'} id={'mission'}>
           <div className={'inner'}>
             <h2 className={'text-3xl font-heading'}>{dict.mission.title}</h2>
             <div>

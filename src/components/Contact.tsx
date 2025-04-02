@@ -46,7 +46,7 @@ const Contact: React.FC<ContactProps> = ({ dict }) => {
 
   return (
     <>
-      <section className={'py-12 px-6'} id={'contact'}>
+      <section className={'pb-12 pt-16 px-6'} id={'contact'}>
         <div className={'inner'}>
           <h2 className={'text-3xl font-heading text-accent'}>{dict.contact.title}</h2>
           <form

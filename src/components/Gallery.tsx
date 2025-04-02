@@ -6,7 +6,7 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 export default function Gallery() {
   return (
-    <section id={'gallery'} className={'py-12 px-6 bg-primary text-highlight'}>
+    <section id={'gallery'} className={'pb-12 pt-16 px-6 bg-primary text-highlight'}>
       <div className={'inner'}>
         <Carousel
           showArrows={true}
