@@ -55,7 +55,7 @@ export default function Header({ dict }: { dict: any }) {
         </a>
       </div>
       {isMobileMenuOpen && (
-        <div className="absolute top-0 left-0 size-full h-screen bg-background z-12">
+        <div className="fixed top-0 left-0 size-full h-screen bg-background z-12">
           <div className="fixed top-15px left-15px">
             <img src="/x.png" alt="Close" width={35} height={35} onClick={changeMenu} />
           </div>
