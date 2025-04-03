@@ -25,6 +25,7 @@ export default async function Home({
             muted={true}
             disableRemotePlayback
             disablePictureInPicture
+            className="pointer-events-none"
           >
             <source src="/smrt.webm" type="video/webm" />
           </video>
