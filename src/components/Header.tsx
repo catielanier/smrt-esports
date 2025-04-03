@@ -1,4 +1,5 @@
 'use client';
+/* eslint-disable @next/next/no-img-element */
 import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 
@@ -51,7 +52,7 @@ export default function Header({ dict }: { dict: any }) {
             changeMenu();
           }}
         >
-          <img src="/menu.png" height={35} width={35} />
+          <img src="/menu.png" height={35} width={35} alt="Menu" />
         </a>
       </div>
       {isMobileMenuOpen && (
