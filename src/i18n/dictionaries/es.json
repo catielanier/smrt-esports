@@ -14,6 +14,10 @@
       {
         "timeline": [
           {
+            "year": "2018",
+            "achievements": ["SMRT | Missing Person quedó en 2.º lugar en Sailor Moon S en Anime Evo"]
+          },
+          {
             "year": "2019",
             "achievements": [
               "SMRT | HoldenTSF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters '98",
@@ -21,12 +25,13 @@
             ]
           },
           {
-            "year": "2018",
-            "achievements": ["SMRT | Missing Person quedó en 2.º lugar en Sailor Moon S en Anime Evo"]
+            "year": "2024-presente",
+            "achievements": [
+              "SMRT eSports ha vuelto a centrar su atención en promover el talento de los eSports de juegos de lucha a nivel nacional con eventos presenciales en Barrie, Ontario."
+            ]
           }
         ]
-      },
-      "A partir de 2024, hemos redirigido nuestra atención hacia la promoción de talentos de esports en juegos de lucha a nivel nacional con eventos presenciales en Barrie, Ontario."
+      }
     ]
   },
   "mission": {

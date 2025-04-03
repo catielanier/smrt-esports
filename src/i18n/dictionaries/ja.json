@@ -14,6 +14,10 @@
       {
         "timeline": [
           {
+            "year": "2018年",
+            "achievements": ["SMRT | Missing PersonがAnime EvoでセーラームーンSで2位を獲得"]
+          },
+          {
             "year": "2019年",
             "achievements": [
               "SMRT | HoldenTSFが台湾のNeoGeo World Tour 2でザ・キング・オブ・ファイターズ‘98でカナダを代表",
@@ -21,12 +25,13 @@
             ]
           },
           {
-            "year": "2018年",
-            "achievements": ["SMRT | Missing PersonがAnime EvoでセーラームーンSで2位を獲得"]
+            "year": "2024年～現在",
+            "achievements": [
+              "SMRT eSportsは、オンタリオ州バリーでのオフラインイベントを通じて、国内の格闘ゲームeスポーツの才能を促進することに再び注力しています。"
+            ]
           }
         ]
-      },
-      "2024年から、私たちはカナダ国内で格闘ゲームeスポーツの才能を促進することに焦点を再び当て、オンタリオ州バリーでオフラインイベントを開催します。"
+      }
     ]
   },
   "mission": {

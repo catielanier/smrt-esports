@@ -14,6 +14,10 @@
       {
         "timeline": [
           {
+            "year": "2018",
+            "achievements": ["SMRT | Missing Person 在 Anime Evo 的 美少女战士 S 比赛中获得了第二名"]
+          },
+          {
             "year": "2019",
             "achievements": [
               "SMRT | HoldenTSF 代表加拿大参加在台湾举办的 NeoGeo 世界巡回赛 2 并竞技于 格斗天王 '98",
@@ -21,12 +25,11 @@
             ]
           },
           {
-            "year": "2018",
-            "achievements": ["SMRT | Missing Person 在 Anime Evo 的 美少女战士 S 比赛中获得了第二名"]
+            "year": "2024年至今",
+            "achievements": ["SMRT eSports 重新聚焦于通过在安大略省巴里举办线下赛事来推广国内格斗游戏电竞人才。"]
           }
         ]
-      },
-      "自 2024 年起，我们重新专注于通过在安大略省巴里市的实体活动，推动国内格斗游戏电子竞技人才的发展。"
+      }
     ]
   },
   "mission": {
