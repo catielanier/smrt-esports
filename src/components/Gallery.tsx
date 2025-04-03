@@ -14,11 +14,10 @@ export default function Gallery() {
           infiniteLoop={true}
           showThumbs={false}
           showStatus={false}
-          width={1000}
           dynamicHeight={false}
         >
           <div>
-            <img src="/smrt-2.jpg" width={1000} height={563} alt="" />
+            <img src="/smrt-2.jpg" className="width-max" alt="" />
           </div>
           <div>
             <img src="/smrt-3.jpg" width={800} height={482} alt="" />
