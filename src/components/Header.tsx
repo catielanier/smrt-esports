@@ -23,12 +23,7 @@ export default function Header({ dict }: { dict: any }) {
         <nav>
           <ul className={'flex justify-between items-center uppercase font-heading font-bold'}>
             <li>
-              <Image
-                src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/smrt.png`}
-                alt={dict.heading}
-                width={100}
-                height={56}
-              />
+              <Image src="/smrt.png" alt={dict.heading} width={100} height={56} />
             </li>
             <li>
               <a href="#">{dict.header.home}</a>
