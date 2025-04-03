@@ -10,9 +10,16 @@
   "about": {
     "title": "About Us",
     "paragraphs": [
-      "SMRT eSports started as an esports tournament organizer in 2017.  We identified the need to represent Canada on the global stage in fighting game esports and so Team So SMRT was created.  A short list of our achievements include:",
+      "SMRT eSports is nonprofit corporation. We started as an esports tournament organizer and eSports team in 2017.  We identified the need to represent Canada on the global stage in fighting game esports and so Team So SMRT was created.  A short list of our achievements include:",
       {
         "timeline": [
+          {
+            "year": "2017",
+            "achievements": [
+              "SMRT eSports team founded.",
+              "SMRT eSports also worked as volunteer tournament organizer with TorontoTopTiers"
+            ]
+          },
           {
             "year": "2018",
             "achievements": ["SMRT | Missing Person placed 2nd in Sailor Moon S at Anime Evo"]
@@ -27,7 +34,7 @@
           {
             "year": "2024-present",
             "achievements": [
-              "SMRT eSports has refocused our attention towards promoting fighting game eSports talent domestically with offline events in Barrie, Ontario."
+              "SMRT eSports refocused our attention towards promoting fighting game eSports talent domestically with offline and online tournaments in Barrie, Ontario."
             ]
           }
         ]

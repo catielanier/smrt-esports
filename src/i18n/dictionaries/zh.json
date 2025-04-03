@@ -10,23 +10,29 @@
   "about": {
     "title": "關於我們",
     "paragraphs": [
-      "SMRT eSports 成立於 2017 年，最初是一個電子競技賽事的舉辦方。我們發現了讓加拿大在格鬥遊戲電子競技領域於全球舞台上佔據一席之地的必要性，因此成立了 Team So SMRT。我們的主要成就包括：",
+      "SMRT eSports是一家非營利性公司。我們於2017年成立，最初是一家電子競技賽事組織者和電子競技戰隊。我們認識到在格鬥遊戲電子競技領域代表加拿大登上國際舞台的必要性，因此創建了So SMRT戰隊。以下是我們的一些成就：",
       {
         "timeline": [
           {
+            "year": "2017",
+            "achievements": ["SMRT eSports戰隊成立。", "SMRT eSports還作為志願者賽事組織者與TorontoTopTiers合作。"]
+          },
+          {
             "year": "2018",
-            "achievements": ["SMRT | Missing Person 在 Anime Evo 的 美少女戰士 S 比賽中獲得了第二名"]
+            "achievements": ["SMRT | Missing Person在Anime Evo的《美少女戰士S》比賽中獲得第二名。"]
           },
           {
             "year": "2019",
             "achievements": [
-              "SMRT | HoldenTSF 代表加拿大參加在台灣舉辦的 NeoGeo 世界巡迴賽 2 並競技於 格鬥天王 '98",
-              "SMRT | AlvinKOF 代表加拿大參加在台灣舉辦的 NeoGeo 世界巡迴賽 2 並競技於 格鬥天王 14"
+              "SMRT | HoldenTSF在NeoGeo World Tour 2台灣站代表加拿大參加《拳皇 98》比賽。",
+              "SMRT | AlvinKOF在NeoGeo World Tour 2台灣站代表加拿大參加《拳皇 14》比賽。"
             ]
           },
           {
-            "year": "2024年至今",
-            "achievements": ["SMRT eSports 重新聚焦於透過在安大略省巴里舉辦線下賽事來推廣國內格鬥遊戲電競人才。"]
+            "year": "2024-至今",
+            "achievements": [
+              "SMRT eSports專注於在加拿大本土推廣格鬥遊戲電子競技人才，並在安大略省巴里舉辦線下和線上賽事。"
+            ]
           }
         ]
       }

@@ -10,24 +10,31 @@
   "about": {
     "title": "소개",
     "paragraphs": [
-      "SMRT eSports는 2017년에 e스포츠 토너먼트 주최자로 시작했습니다. 우리는 캐나다를 격투 게임 e스포츠의 글로벌 무대에서 대표할 필요성을 인식했고, 그래서 Team So SMRT가 창설되었습니다. 우리의 주요 성과에는 다음이 포함됩니다:",
+      "SMRT eSports는 비영리 법인입니다. 2017년에 e스포츠 토너먼트 운영 및 e스포츠 팀으로 시작했습니다. 우리는 격투 게임 e스포츠에서 캐나다를 세계 무대에서 대표할 필요성을 인식하여 'So SMRT' 팀을 창설했습니다. 다음은 우리의 주요 업적 목록입니다:",
       {
         "timeline": [
           {
+            "year": "2017",
+            "achievements": [
+              "SMRT eSports 팀이 창단되었습니다.",
+              "SMRT eSports는 TorontoTopTiers와 함께 자원봉사 토너먼트 운영자로 활동했습니다."
+            ]
+          },
+          {
             "year": "2018",
-            "achievements": ["SMRT | Missing Person이 Anime Evo에서 '세일러문 S'로 2위를 차지했습니다."]
+            "achievements": ["SMRT | Missing Person이 Anime Evo에서 세일러문 S 부문 2위를 차지했습니다."]
           },
           {
             "year": "2019",
             "achievements": [
-              "SMRT | HoldenTSF가 대만에서 열린 NeoGeo World Tour 2에서 '더 킹 오브 파이터즈 ‘98'로 캐나다를 대표했습니다.",
-              "SMRT | AlvinKOF가 대만에서 열린 NeoGeo World Tour 2에서 '더 킹 오브 파이터즈 14'로 캐나다를 대표했습니다."
+              "SMRT | HoldenTSF가 '더 킹 오브 파이터즈 98'의 NeoGeo World Tour 2에서 캐나다 대표로 대만에서 출전했습니다.",
+              "SMRT | AlvinKOF가 '더 킹 오브 파이터즈 14'의 NeoGeo World Tour 2에서 캐나다 대표로 대만에서 출전했습니다."
             ]
           },
           {
-            "year": "2024년~현재",
+            "year": "2024-현재",
             "achievements": [
-              "SMRT eSports는 온타리오주 배리에서 오프라인 이벤트를 통해 국내 격투 게임 e스포츠 인재 육성에 다시 집중하고 있습니다."
+              "SMRT eSports는 국내 격투 게임 e스포츠 인재 육성에 집중하며 온타리오주 배리에서 오프라인 및 온라인 토너먼트를 개최하고 있습니다."
             ]
           }
         ]

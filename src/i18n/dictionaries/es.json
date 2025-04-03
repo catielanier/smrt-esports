@@ -10,24 +10,31 @@
   "about": {
     "title": "Sobre Nosotros",
     "paragraphs": [
-      "SMRT eSports comenzó como un organizador de torneos de esports en 2017. Identificamos la necesidad de representar a Canadá en el escenario global en esports de juegos de lucha, y así se creó el equipo Team So SMRT. Una breve lista de nuestros logros incluye:",
+      "SMRT eSports es una corporación sin fines de lucro. Comenzamos como un organizador de torneos de deportes electrónicos y un equipo de eSports en 2017. Identificamos la necesidad de representar a Canadá en el escenario global de los deportes electrónicos de juegos de lucha, y así nació el equipo So SMRT. Una lista corta de nuestros logros incluye:",
       {
         "timeline": [
           {
+            "year": "2017",
+            "achievements": [
+              "Se fundó el equipo de SMRT eSports.",
+              "SMRT eSports también trabajó como organizador de torneos voluntario con TorontoTopTiers."
+            ]
+          },
+          {
             "year": "2018",
-            "achievements": ["SMRT | Missing Person quedó en 2.º lugar en Sailor Moon S en Anime Evo"]
+            "achievements": ["SMRT | Missing Person obtuvo el 2.º lugar en Sailor Moon S en Anime Evo."]
           },
           {
             "year": "2019",
             "achievements": [
-              "SMRT | HoldenTSF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters '98",
-              "SMRT | AlvinKOF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters 14"
+              "SMRT | HoldenTSF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters ‘98.",
+              "SMRT | AlvinKOF representó a Canadá en el NeoGeo World Tour 2 en Taiwán para The King of Fighters 14."
             ]
           },
           {
             "year": "2024-presente",
             "achievements": [
-              "SMRT eSports ha vuelto a centrar su atención en promover el talento de los eSports de juegos de lucha a nivel nacional con eventos presenciales en Barrie, Ontario."
+              "SMRT eSports redirigió nuestra atención a la promoción del talento en los deportes electrónicos de juegos de lucha a nivel nacional con eventos presenciales en Barrie, Ontario."
             ]
           }
         ]
