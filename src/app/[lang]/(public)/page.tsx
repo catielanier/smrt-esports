@@ -26,8 +26,10 @@ export default async function Home({
             disableRemotePlayback
             disablePictureInPicture
             className="pointer-events-none"
+            playsInline={true}
           >
             <source src="/smrt.webm" type="video/webm" />
+            <source src="/smrt.mp4" type="video/mp4" />
           </video>
         </header>
         <section className={'pb-12 pt-16 px-6'} id={'about'}>
