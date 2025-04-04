@@ -34,7 +34,7 @@ export default async function Home({
         </header>
         <section className={'pb-12 pt-16 px-6'} id={'about'}>
           <div className={'inner'}>
-            <h2 className={'text-3xl font-heading text-accent ml-2'}>{dict.about.title}</h2>
+            <h2 className={'ml-2 md:ml-0 text-3xl font-heading text-accent'}>{dict.about.title}</h2>
             {dict.about.paragraphs.map((paragraph, index) =>
               typeof paragraph === 'string' ? (
                 <p className={'p-4'} key={index}>
@@ -59,7 +59,7 @@ export default async function Home({
         </section>
         <section className={'pb-12 pt-16 px-6 bg-secondary text-highlight'} id={'mission'}>
           <div className={'inner'}>
-            <h2 className={'text-3xl font-heading sm:ml-2'}>{dict.mission.title}</h2>
+            <h2 className={'ml-2 md:ml-0 text-3xl font-heading'}>{dict.mission.title}</h2>
             <div>
               {dict.mission.paragraphs.map((paragraph, index) => (
                 <p className={'p-4'} key={index}>
