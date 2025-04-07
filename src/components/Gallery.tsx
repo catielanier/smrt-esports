@@ -43,9 +43,6 @@ export default function Gallery() {
           <div>
             <img src="/smrt-11.jpg" width={271} height={482} alt="" />
           </div>
-          <div>
-            <img src="/smrt-12.jpg" width={800} height={482} alt="" />
-          </div>
         </Carousel>
       </div>
     </section>
