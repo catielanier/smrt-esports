@@ -20,7 +20,7 @@ export default function Header({ dict }: { dict: any }) {
   }, [isMobileMenuOpen]);
   return (
     <>
-      <div className="hidden md:block navigation-header max-w-screen-md mb-3 mx-auto sticky top-1 left-1/2 -translate-x-1/2 bg-background px-5 rounded-md ">
+      <div className="hidden md:block navigation-header max-w-screen-md mb-3 mx-auto sticky top-1 left-1/2 -translate-x-1/2 bg-background px-5 rounded-md z-[9999]">
         <nav>
           <ul className={'flex justify-between items-center uppercase font-heading font-bold'}>
             <li>
