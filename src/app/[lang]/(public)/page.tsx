@@ -3,6 +3,7 @@ import React from 'react';
 import Contact from '@/components/Contact';
 import Header from '@/components/Header';
 import Gallery from '@/components/Gallery';
+import { parseRichText } from '@/lib/parseRichText';
 
 export default async function Home({
   params,
@@ -37,9 +38,7 @@ export default async function Home({
             <h2 className={'ml-4 md:ml-0 text-3xl font-heading text-accent'}>{dict.about.title}</h2>
             {dict.about.paragraphs.map((paragraph, index) =>
               typeof paragraph === 'string' ? (
-                <p className={'p-4'} key={index}>
-                  {paragraph}
-                </p>
+                parseRichText(paragraph)
               ) : (
                 <React.Fragment key={index}>
                   {paragraph.timeline.map((item, index) => (
@@ -47,7 +46,7 @@ export default async function Home({
                       <h3 className={'p-4 text-accent text-lg font-bold font-heading'}>{item.year}</h3>
                       <ul className={'list-inside list-disc px-8'}>
                         {item.achievements.map((achievement, index) => (
-                          <li key={`achievement-${index}`}>{achievement}</li>
+                          <li key={`achievement-${index}`}>{parseRichText(achievement)}</li>
                         ))}
                       </ul>
                     </React.Fragment>
