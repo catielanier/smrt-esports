@@ -22,54 +22,53 @@ export default function Header({ dict }: { dict: any }) {
   }, [isMobileMenuOpen]);
   return (
     <>
-      <div className="hidden md:block navigation-header max-w-screen-lg mb-3 mx-auto sticky top-1 left-1/2 -translate-x-1/2 bg-background px-5 rounded-md z-[9999]">
-        <nav>
-          <ul className={'flex justify-between items-center uppercase font-heading font-bold'}>
-            <li>
-              <Image src="/smrt.png" alt={dict.heading} width={100} height={56} />
-            </li>
-            <li>
-              <a href="#">{dict.header.home}</a>
-            </li>
-            <li>
-              <a href="#about">{dict.header.about}</a>
-            </li>
-            <li>
-              <a href="#mission">{dict.header.mission}</a>
-            </li>
-            <li>
-              <a href="#gallery">{dict.header.gallery}</a>
-            </li>
-            <li>
-              <a href="#contact">{dict.header.contact}</a>
-            </li>
-            <li>
-              <a href="https://x.com/SMRTesports" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faXTwitter} />
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/smrtesports.bsky.social" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faBluesky} />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/smrtesports/" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faInstagram} />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.youtube.com/@smrtesports" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faYoutube} />
-              </a>
-            </li>
-            <li>
-              <a href="https://whiff-city-discord.smrtesports.com/" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faDiscord} />
-              </a>
-            </li>
-          </ul>
-        </nav>
+      <div className="hidden md:flex fixed top-3 left-1/2 -translate-x-1/2 z-[9999] w-full max-w-screen-lg px-5">
+        <div className="flex items-center justify-between w-full bg-background rounded-md shadow-md py-2 px-4">
+          {/* Left: Logo */}
+          <div className="flex-shrink-0">
+            <Image src="/smrt.png" alt={dict.heading} width={100} height={56} />
+          </div>
+
+          {/* Center: Nav Links */}
+          <nav className="flex-grow text-center">
+            <ul className="flex justify-center space-x-6 uppercase font-heading font-bold">
+              <li>
+                <a href="#">{dict.header.home}</a>
+              </li>
+              <li>
+                <a href="#about">{dict.header.about}</a>
+              </li>
+              <li>
+                <a href="#mission">{dict.header.mission}</a>
+              </li>
+              <li>
+                <a href="#gallery">{dict.header.gallery}</a>
+              </li>
+              <li>
+                <a href="#contact">{dict.header.contact}</a>
+              </li>
+            </ul>
+          </nav>
+
+          {/* Right: Socials */}
+          <div className="flex space-x-4">
+            <a href="https://x.com/SMRTesports" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faXTwitter} />
+            </a>
+            <a href="https://bsky.app/profile/smrtesports.bsky.social" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faBluesky} />
+            </a>
+            <a href="https://www.instagram.com/smrtesports/" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faInstagram} />
+            </a>
+            <a href="https://www.youtube.com/@smrtesports" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faYoutube} />
+            </a>
+            <a href="https://whiff-city-discord.smrtesports.com/" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faDiscord} />
+            </a>
+          </div>
+        </div>
       </div>
       <div className="fixed top-0 left-0 block md:hidden mobile-menu-opener">
         <a
