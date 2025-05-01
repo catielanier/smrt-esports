@@ -4,6 +4,7 @@ import Contact from '@/components/Contact';
 import Header from '@/components/Header';
 import Gallery from '@/components/Gallery';
 import { parseRichText } from '@/lib/parseRichText';
+import NavArrows from '@/components/NavArrows';
 
 export default async function Home({
   params,
@@ -16,6 +17,7 @@ export default async function Home({
   const dict = await getDictionary(lang);
   return (
     <>
+      <NavArrows />
       <main className={'bg-background text-text font-body min-h-screen'}>
         <Header dict={dict} />
         <header className={'text-highlight text-center justify-center items-center flex'}>
