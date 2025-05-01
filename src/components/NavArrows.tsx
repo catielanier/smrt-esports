@@ -20,7 +20,7 @@ export default function NavArrows() {
       {currentIndex < anchors.length - 1 && (
         <button
           onClick={() => scrollToIndex(currentIndex + 1)}
-          className="fixed bottom-2 right-2 p-4 z-50 text-text rounded-full bg-background"
+          className="fixed bottom-2 right-2 p-4 z-50 text-background rounded-full bg-chevron"
         >
           <FontAwesomeIcon icon={faAnglesDown} className="text-2xl" />
         </button>
@@ -28,7 +28,7 @@ export default function NavArrows() {
       {currentIndex > 0 && (
         <button
           onClick={() => scrollToIndex(currentIndex - 1)}
-          className="fixed top-2 right-2 p-4 z-50 rounded-full text-text bg-background"
+          className="fixed top-2 right-2 p-4 z-50 rounded-full text-background bg-chevron"
         >
           <FontAwesomeIcon icon={faAnglesUp} className="text-2xl" />
         </button>

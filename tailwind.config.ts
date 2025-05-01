@@ -16,15 +16,16 @@ export default {
       accent: '#84b9d4',
       secondary: '#2a4e7c',
       highlight: '#e0e0e0',
+      chevron: '#FFD247',
     },
     fontFamily: {
       heading: ['Orbitron', 'sans-serif'],
       body: ['Roboto', 'sans-serif'],
       subheading: ['Rajdhani', 'sans-serif'],
-      accent: ['Share Tech Mono', 'sans-serif']
+      accent: ['Share Tech Mono', 'sans-serif'],
     },
-    extend: {}
+    extend: {},
   },
 
-  plugins: [typography]
+  plugins: [typography],
 } satisfies Config;
