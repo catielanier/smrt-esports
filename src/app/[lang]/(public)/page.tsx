@@ -20,7 +20,7 @@ export default async function Home({
       <NavArrows />
       <main className={'bg-background text-text font-body min-h-screen'}>
         <Header dict={dict} />
-        <header className={'text-highlight text-center justify-center items-center flex'}>
+        <header className={'text-highlight text-center justify-center items-center flex'} id={'home'}>
           <video
             autoPlay={true}
             controls={false}

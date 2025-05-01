@@ -33,7 +33,7 @@ export default function Header({ dict }: { dict: any }) {
           <nav className="flex-grow text-center">
             <ul className="flex justify-center space-x-6 uppercase font-heading font-bold">
               <li>
-                <a href="#">{dict.header.home}</a>
+                <a href="#home">{dict.header.home}</a>
               </li>
               <li>
                 <a href="#about">{dict.header.about}</a>
@@ -88,7 +88,7 @@ export default function Header({ dict }: { dict: any }) {
           </div>
           <div className="flex flex-col justify-around items-center font-heading font-bold uppercase h-screen">
             <div>
-              <a href="#" onClick={changeMenu}>
+              <a href="#home" onClick={changeMenu}>
                 {dict.header.home}
               </a>
             </div>
