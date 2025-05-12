@@ -70,6 +70,31 @@ export default async function Home({
             </div>
           </div>
         </section>
+        <section className="bg-background pb-12 pt-16 px-6" id="events">
+          <div className="inner">
+            <h2 className={'ml-4 md:ml-0 text-3xl font-heading text-accent'}>{dict.header.events}</h2>
+            <div className="md:grid grid-cols-4 gap-[15px] pt-6">
+              {dict.events.map((event, index) => (
+                <div
+                  key={`event-${index}`}
+                  className={`px-4 py-5 ${index % 2 === 0 ? 'bg-accent text-background' : 'bg-secondary'}`}
+                >
+                  <a href={event.url} target="blank" rel="noreferrer noopener">
+                    <img src={`/${event.logo}`} alt={event.name} className="w-full" />
+                  </a>
+                  <h3 className={`font-heading py-4 text-2xl ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
+                    {event.name}
+                  </h3>
+                  {event.paragraphs.map((paragraph, index) => (
+                    <p key={`event-paragraph-${index}}`} className="text-justify">
+                      {paragraph}
+                    </p>
+                  ))}
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
         <Gallery />
         <Contact dict={dict} />
       </main>

@@ -42,6 +42,9 @@ export default function Header({ dict }: { dict: any }) {
                 <a href="#mission">{dict.header.mission}</a>
               </li>
               <li>
+                <a href="#events">{dict.header.events}</a>
+              </li>
+              <li>
                 <a href="#gallery">{dict.header.gallery}</a>
               </li>
               <li>
