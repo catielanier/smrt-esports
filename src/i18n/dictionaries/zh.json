@@ -4,6 +4,7 @@
     "home": "首頁",
     "about": "關於",
     "mission": "使命",
+    "events": "活動",
     "gallery": "畫廊",
     "contact": "聯繫"
   },
@@ -46,6 +47,46 @@
       "SMRT eSports 致力於在格鬥遊戲玩家社群中培養團體合作、解決問題能力和韌性。我們的目標是推廣從格鬥遊戲電子競技中學到的靈活應用在現實生活當中。"
     ]
   },
+  "events": [
+    {
+      "name": "空招城市",
+      "logo": "whiff-city.png",
+      "paragraphs": [
+        "我們的每月大型電子競技比賽於 C.W. Coop’s Barrie（Dunlop 街）舉行。",
+        "每個月的最後一個星期六，有大約30 到 50 人參加這項活動。",
+        "約有一半的參加者來自 Barrie / Simcoe 縣地區。另一半來自 大多倫多地區（Greater Toronto Area）、漢密爾頓、密西沙加，甚至遠從 圭爾夫、尼亞加拉瀑布、哈利伯頓前來。"
+      ],
+      "url": "https://start.gg/whiffcity"
+    },
+    {
+      "name": "山丘之王",
+      "logo": "king-of-the-hill.png",
+      "paragraphs": [
+        "我們在安大略省藍山的 YetiCon 舉辦的年度電子競技賽事。活動匯聚超過 200 家展商 及 數百名參加者。",
+        "我們將為大會來賓及格鬥遊戲社群成員舉辦我們的首屆年度 King of The Hill 比賽。"
+      ],
+      "url": "https://start.gg/hooyeah"
+    },
+    {
+      "name": "6ix格鬥聯盟",
+      "logo": "6ix.png",
+      "paragraphs": [
+        "我們每兩個月舉辦一次的團隊錦標賽在線上舉行，目前由本地玩家參與，未來將擴展至整個北美東海岸。",
+        "玩家以3對3形式協作參賽。此平台提供他們一個分享技巧的機會。",
+        "在遊戲機制的理解與應用上，能夠迅速提升。"
+      ],
+      "url": "https://youtube.com/@705WhiffCity"
+    },
+    {
+      "name": "遊戲·盤·比賽",
+      "logo": "gsm.png",
+      "paragraphs": [
+        "我們每兩週在 Twitch 和 YouTube 上播出的節目，連結格鬥遊戲界的傳奇人物與我們位於 Barrie / Simcoe 縣 社群中的新興之星。",
+        "前三集節目已邀請來自電競各領域的知名人物，包括：世界冠軍選手 Kane Blueriver、國際教練 Chris_F，以及 YouTube 上的知名創作者 Core-A Gaming 的 Gerald Lee。"
+      ],
+      "url": "https://youtube.com/@SMRTeSports"
+    }
+  ],
   "contact": {
     "title": "聯絡我們",
     "placeholders": {

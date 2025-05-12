@@ -4,6 +4,7 @@
     "home": "홈",
     "about": "소개",
     "mission": "미션",
+    "events": "이벤트",
     "gallery": "갤러리",
     "contact": "문의"
   },
@@ -49,6 +50,46 @@
       "SMRT eSports는 격투 게임 플레이어 커뮤니티가 협력, 문제 해결, 회복력을 개발할 수 있도록 노력하고 있습니다. 우리의 목표는 격투 게임 e스포츠를 통해 학습되는 이러한 전이 가능한 삶의 기술을 홍보하는 것입니다."
     ]
   },
+  "events": [
+    {
+      "name": "휘프 시티",
+      "logo": "whiff-city.png",
+      "paragraphs": [
+        "저희의 대표적인 월간 비디오 게임 e스포츠 대회는 C.W. Coop’s Barrie, Dunlop Street에서 열립니다.",
+        "매달 마지막 토요일, 약 30~50명이 이 이벤트에 참석합니다.",
+        "참석자의 절반 정도는 Barrie / Simcoe 카운티 지역 출신이며, 나머지 절반은 그레이터 토론토 지역(Greater Toronto Area), 해밀턴, 미시사가, 그리고 귈프, 나이아가라 폭포, 할리버턴 등 먼 지역에서 옵니다."
+      ],
+      "url": "https://start.gg/whiffcity"
+    },
+    {
+      "name": "킹 오브 더 힐",
+      "logo": "king-of-the-hill.png",
+      "paragraphs": [
+        "매년 온타리오 블루 마운틴에서 열리는 YetiCon의 연례 e스포츠 대회입니다. 이 이벤트에는 200개 이상의 전시업체와 수백 명의 참가자가 함께합니다.",
+        "우리는 이번에 컨벤션 참가자들과 격투 게임 커뮤니티를 위해 첫 번째 연례 킹 오브 더 힐 대회를 개최할 예정입니다."
+      ],
+      "url": "https://start.gg/hooyeah"
+    },
+    {
+      "name": "식스 파이터 리그",
+      "logo": "6ix.png",
+      "paragraphs": [
+        "우리의 격월 팀 토너먼트는 지역 플레이어들 간에 온라인으로 진행되며, 곧 북미 동부 전역으로 확장될 예정입니다.",
+        "플레이어들은 3 대 3 형식의 토너먼트에서 협력합니다. 이 플랫폼은 그들이 게임에 대한 더 깊은 이해, 즉 \"테크\"를 공유할 수 있는 기회를 제공합니다.",
+        "게임 메커니즘의 이해와 활용에서 즉각적인 성장이 나타납니다."
+      ],
+      "url": "https://youtube.com/@705WhiffCity"
+    },
+    {
+      "name": "게임 셋 매치",
+      "logo": "gsm.png",
+      "paragraphs": [
+        "격투 게임 커뮤니티의 전설적인 인물들과 Barrie / Simcoe 카운티의 떠오르는 스타들을 연결하는 격주 방송입니다. Twitch와 YouTube를 통해 송출됩니다.",
+        "첫 3개의 에피소드는 e스포츠의 다양한 분야에서 활동하는 인물들을 소개했습니다. 세계 챔피언 Kane Blueriver, 국제 코치 Chris_F, 그리고 Core-A Gaming의 YouTube 스타 Gerald Lee가 출연했습니다."
+      ],
+      "url": "https://youtube.com/@SMRTeSports"
+    }
+  ],
   "contact": {
     "title": "문의하기",
     "placeholders": {

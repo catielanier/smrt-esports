@@ -5,7 +5,7 @@ import { faAnglesUp, faAnglesDown } from '@fortawesome/free-solid-svg-icons';
 
 export default function NavArrows() {
   const [currentIndex, setCurrentIndex] = React.useState<number>(0);
-  const anchors: string[] = ['#home', '#about', '#mission', '#gallery', '#contact'];
+  const anchors: string[] = ['#home', '#about', '#mission', '#events', '#gallery', '#contact'];
 
   const scrollToIndex = (index: number) => {
     const target = document.querySelector(anchors[index]);

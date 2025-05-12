@@ -4,6 +4,7 @@
     "home": "Accueil",
     "about": "À propos",
     "mission": "Mission",
+    "events": "Événements",
     "gallery": "Galerie",
     "contact": "Contact"
   },
@@ -49,6 +50,46 @@
       "SMRT eSports s'efforce de développer la collaboration, la résolution de problèmes et la résilience au sein de notre communauté de joueurs de jeux de combat. Notre objectif est de promouvoir ces compétences de vie transférables acquises grâce aux jeux de combat eSports."
     ]
   },
+  "events": [
+    {
+      "name": "Whiff City",
+      "logo": "whiff-city.png",
+      "paragraphs": [
+        "Notre principale compétition mensuelle de jeux vidéo et d’e-sport a lieu à C.W. Coop’s Barrie, sur rue Dunlop.",
+        "Entre 30 et 50 personnes participent à cet événement le dernier samedi de chaque mois.",
+        "Environ la moitié des participants viennent de la région de Barrie/Comté de Simcoe. L’autre moitié vient de la Région du Grand Toronto, Hamilton, Mississauga, et même de Guelph, les chutes du Niagara et Haliburton."
+      ],
+      "url": "https://start.gg/whiffcity"
+    },
+    {
+      "name": "King of the Hill",
+      "logo": "king-of-the-hill.png",
+      "paragraphs": [
+        "Notre compétition annuelle d’e-sport à YetiCon, à Blue Mountain, Ontario. L’événement accueille plus de 200 exposants et des centaines de participants.",
+        "Nous organiserons notre première compétition annuelle de King of The Hill pour les visiteurs du salon et les membres de notre communauté de jeux de combat."
+      ],
+      "url": "https://start.gg/hooyeah"
+    },
+    {
+      "name": "6ix Fighters League",
+      "logo": "6ix.png",
+      "paragraphs": [
+        "Notre tournoi bimensuel par équipes se joue en ligne entre joueurs locaux et s’étendra bientôt à toute la côte est de l’Amérique du Nord.",
+        "Les joueurs collaborent dans un tournoi en format 3 contre 3. Cette plateforme leur permet de partager leur \"tech\" (leur compréhension approfondie du jeu).",
+        "On observe une progression immédiate dans la compréhension et l'application des mécaniques du jeu."
+      ],
+      "url": "https://youtube.com/@705WhiffCity"
+    },
+    {
+      "name": "Game Set Match",
+      "logo": "gsm.png",
+      "paragraphs": [
+        "Notre émission bimensuelle sur Twitch et YouTube relie des membres légendaires de la communauté des jeux de combat aux étoiles montantes de notre communauté à Barrie / Comté de Simcoe.",
+        "Les 3 premiers épisodes ont mis en vedette des personnalités de tous les horizons de l’e-sport, dont : le champion du monde Kane Blueriver, l'entraîneur international Chris_F, et la star de YouTube Gerald Lee, créateur de Core-A Gaming."
+      ],
+      "url": "https://youtube.com/@SMRTeSports"
+    }
+  ],
   "contact": {
     "title": "Contactez-Nous",
     "placeholders": {
