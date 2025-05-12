@@ -106,6 +106,11 @@ export default function Header({ dict }: { dict: any }) {
               </a>
             </div>
             <div>
+              <a href="#events" onClick={changeMenu}>
+                {dict.header.events}
+              </a>
+            </div>
+            <div>
               <a href="#gallery" onClick={changeMenu}>
                 {dict.header.gallery}
               </a>
