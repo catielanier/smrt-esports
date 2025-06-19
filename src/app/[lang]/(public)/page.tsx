@@ -1,10 +1,10 @@
-import getDictionary from '@/i18n/getDictionary';
-import React from 'react';
 import Contact from '@/components/Contact';
-import Header from '@/components/Header';
 import Gallery from '@/components/Gallery';
-import { parseRichText } from '@/lib/parseRichText';
+import Header from '@/components/Header';
 import NavArrows from '@/components/NavArrows';
+import getDictionary from '@/i18n/getDictionary';
+import { parseRichText } from '@/lib/parseRichText';
+import React from 'react';
 
 export default async function Home({
   params,
@@ -86,7 +86,7 @@ export default async function Home({
                     {event.name}
                   </h3>
                   {event.paragraphs.map((paragraph, index) => (
-                    <p key={`event-paragraph-${index}}`} className="text-justify">
+                    <p key={`event-paragraph-${index}}`} className="text-left">
                       {paragraph}
                     </p>
                   ))}
