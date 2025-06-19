@@ -90,7 +90,7 @@ export default async function Home({
                       {paragraph}
                     </p>
                   ))}
-                  {event.sublinks.map(sublink => {
+                  {/* {event.sublinks.map(sublink => {
                     <React.Fragment key={sublink.linkText}>
                       <p className=${`font-heading py-0 text-l text-left ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
                         {sublink.text}
@@ -101,7 +101,7 @@ export default async function Home({
                         </a>
                       </p>
                     </React.Fragment>
-                  })}
+                  })} */}
                 </div>
               ))}
             </div>
