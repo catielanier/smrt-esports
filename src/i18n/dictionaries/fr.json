@@ -61,7 +61,19 @@
         "Entre 30 et 50 personnes participent à cet événement le dernier samedi de chaque mois.",
         "Environ la moitié des participants viennent de la région de Barrie/Comté de Simcoe. L’autre moitié vient de la Région du Grand Toronto, Hamilton, Mississauga, et même de Guelph, les chutes du Niagara et Haliburton."
       ],
-      "url": "https://start.gg/whiffcity"
+      "url": "https://start.gg/whiffcity",
+      "sublinks": [
+        {
+          "text": "Rejoignez sur",
+          "url": "https://start.gg/whiffcity",
+          "linkText": "start.gg/whiffcity"
+        },
+        {
+          "text": "Regardez maintenant sur Twitch !",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "King of the Hill",
@@ -70,7 +82,14 @@
         "Notre compétition annuelle d’e-sport à YetiCon, à Blue Mountain, Ontario. L’événement accueille plus de 200 exposants et des centaines de participants.",
         "Nous organiserons notre première compétition annuelle de King of The Hill pour les visiteurs du salon et les membres de notre communauté de jeux de combat."
       ],
-      "url": "https://start.gg/hooyeah"
+      "url": "https://start.gg/hooyeah",
+      "sublinks": [
+        {
+          "text": "Regardez la rediffusion du 19 juin sur",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "6ix Fighters League",
@@ -80,7 +99,14 @@
         "Les joueurs collaborent dans un tournoi en format 3 contre 3. Cette plateforme leur permet de partager leur \"tech\" (leur compréhension approfondie du jeu).",
         "On observe une progression immédiate dans la compréhension et l'application des mécaniques du jeu."
       ],
-      "url": "https://youtube.com/@705WhiffCity"
+      "url": "https://youtube.com/@705WhiffCity",
+      "sublinks": [
+        {
+          "text": "Regardez maintenant sur Twitch !",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "Game Set Match",
@@ -89,7 +115,14 @@
         "Notre émission bimensuelle sur Twitch et YouTube relie des membres légendaires de la communauté des jeux de combat aux étoiles montantes de notre communauté à Barrie / Comté de Simcoe.",
         "Les 3 premiers épisodes ont mis en vedette des personnalités de tous les horizons de l’e-sport, dont : le champion du monde Kane Blueriver, l'entraîneur international Chris_F, et la star de YouTube Gerald Lee, créateur de Core-A Gaming."
       ],
-      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared"
+      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared",
+      "sublinks": [
+        {
+          "text": "Regardez maintenant sur YouTube !",
+          "url": "https://youtube.com/@SMRTeSports",
+          "linkText": "youtube.com/@SMRTeSports"
+        }
+      ]
     }
   ],
   "contact": {

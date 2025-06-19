@@ -61,7 +61,19 @@
         "30-50 people attend this event on the last Saturday of every month.",
         "Approximately half of the attendees are from the Barrie/Simcoe County area.  The other half of the attendees are from Greater Toronto Area, Hamilton, Mississauga and they come from as far as Guelph, Niagara Falls, and Haliburton."
       ],
-      "url": "https://start.gg/whiffcity"
+      "url": "https://start.gg/whiffcity",
+      "sublinks": [
+        {
+          "text": "Join at",
+          "url": "https://start.gg/whiffcity",
+          "linkText": "start.gg/whiffcity"
+        },
+        {
+          "text": "Watch now on Twitch!",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "King of the Hill",
@@ -70,7 +82,14 @@
         "Our annual eSports competition at YetiCon in Blue Mountain, Ontario.  The event hosts over 200 exhibitors and hundreds of attendees.",
         "We will be hosting our first annual King of The Hill competition there for the convention goers and our fighting game community members."
       ],
-      "url": "https://start.gg/hooyeah"
+      "url": "https://start.gg/hooyeah",
+      "sublinks": [
+        {
+          "text": "Watch the restream from June 19th at",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "6ix Fighters League",
@@ -80,7 +99,14 @@
         "Players collaborate in a 3 vs. 3 tournament.  This platform gives them an opportunity to share \"tech\" (their deeper understanding of the game).",
         "There is immediate growth in understanding and application of game mechanics."
       ],
-      "url": "https://youtube.com/@705WhiffCity"
+      "url": "https://youtube.com/@705WhiffCity",
+      "sublinks": [
+        {
+          "text": "Watch now on Twitch!",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "Game Set Match",
@@ -89,7 +115,14 @@
         "Our biweekly Twitch and YouTube show where we connect legendary members of the fighting game community with rising stars within ourcommunity in Barrie/Simcoe County.",
         "The first 3 episodes have featured personalities from every facet of eSports including: world champion competitor Kane Blueriver, international coach Chris_F, and YouTube star content creator Gerald Lee of Core-A Gaming."
       ],
-      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared"
+      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared",
+      "sublinks": [
+        {
+          "text": "Watch now on Youtube!",
+          "url": "https://youtube.com/@SMRTeSports",
+          "linkText": "youtube.com/@SMRTeSports"
+        }
+      ]
     }
   ],
   "contact": {

@@ -61,7 +61,19 @@
         "このイベントには、毎月の最終土曜日に30～50人が参加します。",
         "参加者の約半数はBarrie / Simcoe郡地域から、残りの半数はグレーター・トロント・エリア（Greater Toronto Area）、ハミルトン、ミシサガ、さらにはグエルフ、ナイアガラフォールズ、ハリバートンなど遠方から来ています。"
       ],
-      "url": "https://start.gg/whiffcity"
+      "url": "https://start.gg/whiffcity",
+      "sublinks": [
+        {
+          "text": "こちらから参加：",
+          "url": "https://start.gg/whiffcity",
+          "linkText": "start.gg/whiffcity"
+        },
+        {
+          "text": "今すぐTwitchで観よう！",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "キング・オブ・ザ・ヒル",
@@ -70,7 +82,14 @@
         "オンタリオ州ブルーマウンテンで開催される YetiConにて、私たちの年次eスポーツ大会を開催します。このイベントには200以上の出展者と何百人もの参加者が集まります。",
         "コンベンション参加者と格闘ゲームコミュニティのために、初の年次「キング・オブ・ザ・ヒル」大会も開催します。"
       ],
-      "url": "https://start.gg/hooyeah"
+      "url": "https://start.gg/hooyeah",
+      "sublinks": [
+        {
+          "text": "6月19日の再配信をこちらで視聴：",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "シックス・ファイターズ・リーグ",
@@ -80,7 +99,14 @@
         "プレイヤーは3対3の形式で協力して戦います。このプラットフォームでは、ゲームに対する深い理解、いわゆる「テック」を共有する機会が得られます。",
         "ゲームメカニクスの理解と応用において、即座に成長が見られます。"
       ],
-      "url": "https://youtube.com/@705WhiffCity"
+      "url": "https://youtube.com/@705WhiffCity",
+      "sublinks": [
+        {
+          "text": "今すぐTwitchで観よう！",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "ゲーム・セット・マッチ",
@@ -89,7 +115,14 @@
         "Barrie / Simcoe 郡のコミュニティにいる新鋭たちと、格闘ゲームコミュニティの伝説的な人物たちをつなぐ、隔週配信のTwitchおよびYouTube番組です。",
         "最初の3エピソードでは、eスポーツのあらゆる分野からの著名人が登場しました：世界チャンピオンのKane Blueriver、国際的なコーチChris_F、そしてYouTubeの人気クリエイター、Core-A GamingのGerald Leeです。"
       ],
-      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared"
+      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared",
+      "sublinks": [
+        {
+          "text": "今すぐYouTubeで観よう！",
+          "url": "https://youtube.com/@SMRTeSports",
+          "linkText": "youtube.com/@SMRTeSports"
+        }
+      ]
     }
   ],
   "contact": {

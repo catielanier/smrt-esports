@@ -58,7 +58,19 @@
         "每個月的最後一個星期六，有大約30 到 50 人參加這項活動。",
         "約有一半的參加者來自 Barrie / Simcoe 縣地區。另一半來自 大多倫多地區（Greater Toronto Area）、漢密爾頓、密西沙加，甚至遠從 圭爾夫、尼亞加拉瀑布、哈利伯頓前來。"
       ],
-      "url": "https://start.gg/whiffcity"
+      "url": "https://start.gg/whiffcity",
+      "sublinks": [
+        {
+          "text": "加入請前往：",
+          "url": "https://start.gg/whiffcity",
+          "linkText": "start.gg/whiffcity"
+        },
+        {
+          "text": "立即在 Twitch 上觀看！",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "山丘之王",
@@ -67,7 +79,14 @@
         "我們在安大略省藍山的 YetiCon 舉辦的年度電子競技賽事。活動匯聚超過 200 家展商 及 數百名參加者。",
         "我們將為大會來賓及格鬥遊戲社群成員舉辦我們的首屆年度 King of The Hill 比賽。"
       ],
-      "url": "https://start.gg/hooyeah"
+      "url": "https://start.gg/hooyeah",
+      "sublinks": [
+        {
+          "text": "觀看6月19日的重播，請前往：",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "6ix格鬥聯盟",
@@ -77,7 +96,14 @@
         "玩家以3對3形式協作參賽。此平台提供他們一個分享技巧的機會。",
         "在遊戲機制的理解與應用上，能夠迅速提升。"
       ],
-      "url": "https://youtube.com/@705WhiffCity"
+      "url": "https://youtube.com/@705WhiffCity",
+      "sublinks": [
+        {
+          "text": "立即在 Twitch 上觀看！",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "遊戲·盤·比賽",
@@ -86,7 +112,14 @@
         "我們每兩週在 Twitch 和 YouTube 上播出的節目，連結格鬥遊戲界的傳奇人物與我們位於 Barrie / Simcoe 縣 社群中的新興之星。",
         "前三集節目已邀請來自電競各領域的知名人物，包括：世界冠軍選手 Kane Blueriver、國際教練 Chris_F，以及 YouTube 上的知名創作者 Core-A Gaming 的 Gerald Lee。"
       ],
-      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared"
+      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared",
+      "sublinks": [
+        {
+          "text": "立即在 YouTube 上觀看！",
+          "url": "https://youtube.com/@SMRTeSports",
+          "linkText": "youtube.com/@SMRTeSports"
+        }
+      ]
     }
   ],
   "contact": {

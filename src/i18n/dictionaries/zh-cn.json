@@ -58,7 +58,19 @@
         "每个月的最后一个星期六，有大约 30 至 50 人参加此活动。",
         "大约一半的参与者来自 Barrie / Simcoe 县地区。另一半来自 大多伦多地区（Greater Toronto Area）、汉密尔顿、密西沙加，甚至远自 圭尔夫、尼亚加拉瀑布和 哈利伯顿。"
       ],
-      "url": "https://start.gg/whiffcity"
+      "url": "https://start.gg/whiffcity",
+      "sublinks": [
+        {
+          "text": "加入请访问：",
+          "url": "https://start.gg/whiffcity",
+          "linkText": "start.gg/whiffcity"
+        },
+        {
+          "text": "现在就在 Twitch 上观看！",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "山丘之王",
@@ -67,7 +79,14 @@
         "我们在安大略省蓝山的 YetiCon 举办的年度电子竞技比赛。该活动有超过 200 个展商 和 数百名参与者。",
         "我们将为大会参与者和格斗游戏社区成员举办我们的首届年度山丘之王比赛。"
       ],
-      "url": "https://start.gg/hooyeah"
+      "url": "https://start.gg/hooyeah",
+      "sublinks": [
+        {
+          "text": "观看6月19日的重播，请访问：",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "6ix格斗联盟",
@@ -77,7 +96,14 @@
         "玩家以3对3的形式协作参赛。该平台为他们提供了分享技巧技巧的机会。",
         "在游戏机制的理解和应用方面，他们能立刻获得成长。"
       ],
-      "url": "https://youtube.com/@705WhiffCity"
+      "url": "https://youtube.com/@705WhiffCity",
+      "sublinks": [
+        {
+          "text": "现在就在 Twitch 上观看！",
+          "url": "https://twitch.tv/barriewhiffcity",
+          "linkText": "twitch.tv/barriewhiffcity"
+        }
+      ]
     },
     {
       "name": "游戏·盘·比赛",
@@ -86,7 +112,14 @@
         "我们每两周在 Twitch 和 YouTube 上推出的节目，将格斗游戏界的传奇人物与我们位于 Barrie / Simcoe 县 的新星选手们连接起来。",
         "前三期节目已邀请了来自电子竞技各个领域的重要人物，包括：世界冠军选手 Kane Blueriver、国际教练 Chris_F，以及 YouTube 知名创作者 Core-A Gaming 的 Gerald Lee。"
       ],
-      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared"
+      "url": "https://youtube.com/playlist?list=PLODkaf7lDdAzEKDrxdXBjdwOoa-uSb0Ki&feature=shared",
+      "sublinks": [
+        {
+          "text": "现在就在 YouTube 上观看！",
+          "url": "https://youtube.com/@SMRTeSports",
+          "linkText": "youtube.com/@SMRTeSports"
+        }
+      ]
     }
   ],
   "contact": {
