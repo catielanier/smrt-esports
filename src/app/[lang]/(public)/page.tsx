@@ -92,10 +92,10 @@ export default async function Home({
                   ))}
                   {event.sublinks.map(sublink => (
                     <React.Fragment key={sublink.linkText}>
-                      <p className=${`font-heading py-0 text-l text-left ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
+                      <p className={`font-heading py-0 text-l text-left ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
                         {sublink.text}
                       </p>
-                      <p className=${`font-heading py-2 text-l text-left underline ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
+                      <p className={`font-heading py-2 text-l text-left underline ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
                         <a className={index % 2 === 0 ? 'text-background' : ''} href={sublink.url}>
                           {sublink.linkText}
                         </a>
