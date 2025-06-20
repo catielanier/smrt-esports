@@ -98,7 +98,7 @@ export default async function Home({
                         {sublink.text}
                       </p>
                       <p
-                        className={`font-heading py-2 text-m text-left underline ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
+                        className={`font-heading py-2 text-sm text-left underline ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
                       >
                         <a className={index % 2 === 0 ? 'text-background' : ''} href={sublink.url}>
                           {sublink.linkText}
