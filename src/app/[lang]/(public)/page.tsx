@@ -73,39 +73,44 @@ export default async function Home({
         <section className="bg-background pb-12 pt-16 px-6" id="events">
           <div className="inner">
             <h2 className={'ml-4 md:ml-0 text-3xl font-heading text-accent'}>{dict.header.events}</h2>
-            <div className="md:grid grid-cols-4 gap-[15px] pt-6">
-              {dict.events.map((event, index) => (
+            <div className="md:grid grid-cols-4 gap-4 pt-6">
+              {dict.events.map((event, idx) => (
                 <div
-                  key={`event-${index}`}
-                  className={`px-4 py-5 ${index % 2 === 0 ? 'bg-accent text-background' : 'bg-secondary'}`}
+                  key={idx}
+                  className={`grid grid-rows-[1fr,2fr] h-full px-4 py-5 ${idx % 2 === 0 ? 'bg-accent text-background' : 'bg-secondary'}`}
                 >
-                  <a href={event.url} target="blank" rel="noreferrer noopener">
-                    <img src={`/${event.logo}`} alt={event.name} className="w-full" />
-                  </a>
-                  <h3 className={`font-heading py-4 text-2xl ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
-                    {event.name}
-                  </h3>
-                  {event.paragraphs.map((paragraph, index) => (
-                    <p key={`event-paragraph-${index}}`} className="text-left">
-                      {paragraph}
-                    </p>
-                  ))}
-                  {event.sublinks.map((sublink) => (
-                    <React.Fragment key={sublink.linkText}>
-                      <p
-                        className={`font-heading py-0 text-m text-left ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
-                      >
-                        {sublink.text}
+                  <div className="flex justify-center items-center overflow-hidden">
+                    <a href={event.url} target="_blank" rel="noreferrer noopener">
+                      <img src={`/${event.logo}`} alt={event.name} className="max-h-full w-auto" />
+                    </a>
+                  </div>
+
+                  <div>
+                    <h3 className={`font-heading py-4 text-2xl ${idx % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
+                      {event.name}
+                    </h3>
+                    {event.paragraphs.map((p, i) => (
+                      <p key={i} className="text-left">
+                        {p}
                       </p>
-                      <p
-                        className={`font-heading py-2 text-sm text-left underline ${index % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
-                      >
-                        <a className={index % 2 === 0 ? 'text-background' : ''} href={sublink.url}>
-                          {sublink.linkText}
-                        </a>
-                      </p>
-                    </React.Fragment>
-                  ))}
+                    ))}
+                    {event.sublinks.map((link) => (
+                      <React.Fragment key={link.linkText}>
+                        <p
+                          className={`font-heading py-0 text-m text-left ${idx % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
+                        >
+                          {link.text}
+                        </p>
+                        <p
+                          className={`font-heading py-2 text-sm text-left underline ${idx % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
+                        >
+                          <a href={link.url} className={idx % 2 === 0 ? 'text-background' : undefined}>
+                            {link.linkText}
+                          </a>
+                        </p>
+                      </React.Fragment>
+                    ))}
+                  </div>
                 </div>
               ))}
             </div>
