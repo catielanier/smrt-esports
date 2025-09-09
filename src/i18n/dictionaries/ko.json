@@ -6,6 +6,7 @@
     "mission": "미션",
     "events": "이벤트",
     "gallery": "갤러리",
+    "sponsors": "후원사",
     "contact": "문의"
   },
   "about": {
@@ -125,6 +126,36 @@
       ]
     }
   ],
+  "sponsors": {
+    "heading": "우리의 자랑스러운 후원사",
+    "brands": [
+      {
+        "name": "C.W. Coop's",
+        "logo": "coops.png",
+        "url": "https://cwcoopsbarrie.com/"
+      },
+      {
+        "name": "Canadian Joysticks",
+        "logo": "cj.png",
+        "url": "https://canadianjoysticks.com/"
+      },
+      {
+        "name": "Pixel Paradise Arcade",
+        "logo": "ppa.png",
+        "url": "https://pixelparadisearcade.ca/"
+      },
+      {
+        "name": "GuileKeys",
+        "logo": "gk.png",
+        "url": "https://guilekeys.com"
+      },
+      {
+        "name": "Licious 이탈리아 음식 및 케이터링",
+        "logo": "licious.png",
+        "url": "https://liciousbakerycafe.ca/"
+      }
+    ]
+  },
   "contact": {
     "title": "문의하기",
     "placeholders": {

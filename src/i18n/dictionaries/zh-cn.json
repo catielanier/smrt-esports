@@ -6,6 +6,7 @@
     "mission": "使命",
     "events": "活动",
     "gallery": "画廊",
+    "sponsors": "赞助商",
     "contact": "联系"
   },
   "about": {
@@ -122,6 +123,36 @@
       ]
     }
   ],
+  "sponsors": {
+    "heading": "我们引以为豪的赞助商",
+    "brands": [
+      {
+        "name": "C.W. Coop's",
+        "logo": "coops.png",
+        "url": "https://cwcoopsbarrie.com/"
+      },
+      {
+        "name": "Canadian Joysticks",
+        "logo": "cj.png",
+        "url": "https://canadianjoysticks.com/"
+      },
+      {
+        "name": "Pixel Paradise Arcade",
+        "logo": "ppa.png",
+        "url": "https://pixelparadisearcade.ca/"
+      },
+      {
+        "name": "GuileKeys",
+        "logo": "gk.png",
+        "url": "https://guilekeys.com"
+      },
+      {
+        "name": "Licious 意大利美食与餐饮服务",
+        "logo": "licious.png",
+        "url": "https://liciousbakerycafe.ca/"
+      }
+    ]
+  },
   "contact": {
     "title": "联系我们",
     "placeholders": {

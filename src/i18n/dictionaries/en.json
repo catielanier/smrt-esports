@@ -6,6 +6,7 @@
     "mission": "Mission",
     "events": "Events",
     "gallery": "Gallery",
+    "sponsors": "Sponsors",
     "contact": "Contact"
   },
   "about": {
@@ -125,6 +126,36 @@
       ]
     }
   ],
+  "sponsors": {
+    "heading": "Our Proud Sponsors",
+    "brands": [
+      {
+        "name": "C.W. Coop's",
+        "logo": "coops.png",
+        "url": "https://cwcoopsbarrie.com/"
+      },
+      {
+        "name": "Canadian Joysticks",
+        "logo": "cj.png",
+        "url": "https://canadianjoysticks.com/"
+      },
+      {
+        "name": "Pixel Paradise Arcade",
+        "logo": "ppa.png",
+        "url": "https://pixelparadisearcade.ca/"
+      },
+      {
+        "name": "GuileKeys",
+        "logo": "gk.png",
+        "url": "https://guilekeys.com"
+      },
+      {
+        "name": "Licious Italian Food and Catering",
+        "logo": "licious.png",
+        "url": "https://liciousbakerycafe.ca/"
+      }
+    ]
+  },
   "contact": {
     "title": "Contact Us",
     "placeholders": {

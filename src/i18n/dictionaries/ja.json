@@ -6,6 +6,7 @@
     "mission": "ミッション",
     "events": "イベント",
     "gallery": "ギャラリー",
+    "sponsors": "スポンサー",
     "contact": "お問い合わせ"
   },
   "about": {
@@ -125,6 +126,36 @@
       ]
     }
   ],
+  "sponsors": {
+    "heading": "私たちの誇りあるスポンサー",
+    "brands": [
+      {
+        "name": "シー・ダブリュー・クープス",
+        "logo": "coops.png",
+        "url": "https://cwcoopsbarrie.com/"
+      },
+      {
+        "name": "カナディアン・ジョイスティックス",
+        "logo": "cj.png",
+        "url": "https://canadianjoysticks.com/"
+      },
+      {
+        "name": "ピクセル・パラダイス・ゲームセンター",
+        "logo": "ppa.png",
+        "url": "https://pixelparadisearcade.ca/"
+      },
+      {
+        "name": "ガイルキーズ",
+        "logo": "gk.png",
+        "url": "https://guilekeys.com/jp/index.html"
+      },
+      {
+        "name": "リシャス イタリア料理とケータリング",
+        "logo": "licious.png",
+        "url": "https://liciousbakerycafe.ca/"
+      }
+    ]
+  },
   "contact": {
     "title": "お問い合わせ",
     "placeholders": {

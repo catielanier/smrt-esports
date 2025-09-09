@@ -48,6 +48,9 @@ export default function Header({ dict }: { dict: any }) {
                 <a href="#gallery">{dict.header.gallery}</a>
               </li>
               <li>
+                <a href="#sponsors">{dict.header.sponsors}</a>
+              </li>
+              <li>
                 <a href="#contact">{dict.header.contact}</a>
               </li>
             </ul>
@@ -113,6 +116,11 @@ export default function Header({ dict }: { dict: any }) {
             <div>
               <a href="#gallery" onClick={changeMenu}>
                 {dict.header.gallery}
+              </a>
+            </div>
+            <div>
+              <a href="#sponsors" onClick={changeMenu}>
+                {dict.header.sponsors}
               </a>
             </div>
             <div>
