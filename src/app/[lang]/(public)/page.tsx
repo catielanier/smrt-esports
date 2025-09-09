@@ -2,6 +2,7 @@ import Contact from '@/components/Contact';
 import Gallery from '@/components/Gallery';
 import Header from '@/components/Header';
 import NavArrows from '@/components/NavArrows';
+import Sponsors from '@/components/Sponsors';
 import getDictionary from '@/i18n/getDictionary';
 import { parseRichText } from '@/lib/parseRichText';
 import React from 'react';
@@ -117,6 +118,7 @@ export default async function Home({
           </div>
         </section>
         <Gallery />
+        <Sponsors dict={dict} />
         <Contact dict={dict} />
       </main>
     </>
