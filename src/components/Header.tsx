@@ -22,7 +22,7 @@ export default function Header({ dict }: { dict: any }) {
   }, [isMobileMenuOpen]);
   return (
     <>
-      <div className="hidden md:flex fixed top-3 left-1/2 -translate-x-1/2 z-[9999] w-full max-w-screen-lg px-5">
+      <div className="hidden md:flex fixed top-3 left-1/2 -translate-x-1/2 z-[9999] w-full max-w-screen-xl px-5">
         <div className="flex items-center justify-between w-full bg-background rounded-md shadow-md py-2 px-4">
           {/* Left: Logo */}
           <div className="flex-shrink-0">
