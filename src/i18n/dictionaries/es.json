@@ -165,5 +165,127 @@
     },
     "submit": "Enviar Mensaje",
     "success": "¡Tu mensaje ha sido enviado con éxito!"
+  },
+  "rules": {
+    "title": "REGLAS Y REGLAMENTOS DEL CONCURSO DE PREMIOS",
+    "subtitle": "Concurso de premios basado en la destreza de SMRT eSports",
+    "lastUpdated": "8 de octubre de 2025",
+    "important": "ESTE ES UN CONCURSO BASADO EN LA DESTREZA. NO ES UNA LOTERÍA NI UNA RIFA. NO SE REQUIERE COMPRA.",
+    "articles": [
+      {
+        "heading": "ELEGIBILIDAD",
+        "items": [
+          "El concurso de premios basado en la destreza de SMRT eSports está abierto a residentes de Ontario, Canadá, que tengan 13 años de edad o más al momento de inscribirse.",
+          "Los participantes menores de 13 años solo pueden participar si un padre, madre o tutor legal otorga consentimiento por escrito y cofirma la documentación requerida.",
+          "No son elegibles para ganar los empleados, contratistas y representantes de SMRT eSports, ni los miembros de sus hogares inmediatos."
+        ]
+      },
+      {
+        "heading": "NATURALEZA DEL CONCURSO; NO ES LOTERÍA NI RIFA",
+        "items": [
+          "Este concurso es una competencia basada en la destreza. Los ganadores se determinan únicamente por resolver correctamente la pregunta matemática designada conforme a estas reglas.",
+          "No se utiliza ningún elemento de azar para determinar a los ganadores.",
+          "Cualquier “sorteo” o selección en el escenario mostrada durante el evento es solo para espectáculo y entretenimiento y no afecta la elegibilidad, la selección ni las probabilidades de ganar. El sorteo no tiene efecto jurídico sobre el resultado."
+        ]
+      },
+      {
+        "heading": "PERÍODO DEL CONCURSO; LÍMITE DE INSCRIPCIÓN; NO SE REQUIERE COMPRA",
+        "items": [
+          "El período del concurso para cada evento es la fecha y hora del evento indicadas en la página del evento de SMRT eSports en https://start.gg/whiffcity. El período del concurso se cierra automáticamente a las 23:59, hora local, en la fecha del evento.",
+          "Cada participante puede realizar solo un intento del desafío de destreza por fecha de evento. Las inscripciones múltiples o automatizadas son nulas.",
+          "No se requiere compra, pago ni donación para participar o ganar. Pagar la entrada al evento, en su caso, no aumenta las probabilidades de ganar. Se ofrece un método gratuito de inscripción mediante el envío del formulario de contacto en https://smrtesports.com, hasta agotar existencias, o siguiendo las instrucciones publicadas en el evento."
+        ]
+      },
+      {
+        "heading": "CÓMO PARTICIPAR EN EL CONCURSO DE DESTREZA",
+        "items": [
+          "Durante el período del concurso, los participantes elegibles pueden obtener una tarjeta de respuesta o un formulario digital, según se indique en el evento, e intentar la pregunta de destreza.",
+          "Pregunta de destreza requerida: (150 ÷ 3) + (180 × 3) − 55. Divida 150 entre 3, luego sume el resultado a 180 multiplicado por 3 y finalmente reste 55.",
+          "Los participantes deben resolver la pregunta de destreza sin ayuda (sin calculadoras, sin teléfonos, sin asistencia externa) y presentar su única respuesta final en el formato y dentro del plazo anunciados por los responsables del concurso."
+        ]
+      },
+      {
+        "heading": "DETERMINACIÓN DE GANADORES (SOLO DESTREZA)",
+        "items": [
+          "Los premios se otorgan únicamente a los participantes que presenten la respuesta final correcta dentro del período del concurso.",
+          "Si la cantidad de respuestas correctas excede el número de premios disponibles para ese evento, los premios se otorgarán a las primeras respuestas correctas según la marca de tiempo oficial registrada por los responsables del concurso.",
+          "En caso de empate en el tiempo en el límite del último premio disponible, los participantes empatados completarán una breve pregunta adicional de destreza de dificultad comparable. La respuesta correcta más temprana en el desempate recibirá el o los premios.",
+          "No se utilizan mecanismos de selección aleatoria, lotería ni rifa para determinar a los ganadores."
+        ]
+      },
+      {
+        "heading": "EL “SORTEO” ES SOLO PARA ESPECTÁCULO",
+        "items": [
+          "Cualquier sorteo presentado en el escenario, transmitido o mostrado es un segmento ceremonial y de entretenimiento diseñado para involucrar al público y no altera la elegibilidad, la selección ni los resultados.",
+          "Todos los mensajes al público, accesorios o gráficos que se refieran a un sorteo son puramente teatrales. Los ganadores legales se determinan exclusivamente conforme a las secciones de participación en el concurso de destreza y determinación de ganadores."
+        ]
+      },
+      {
+        "heading": "PREMIOS; CAMBIOS; SUSTITUCIONES",
+        "items": [
+          "Para el concurso de destreza descrito en estas reglas, el único premio disponible para un ganador que cumpla los requisitos es una calcomanía de Whiff City con un valor minorista aproximado que no excede $0.01 CAD. No se ofrece alternativa en efectivo ni contraprestación adicional.",
+          "La descripción y cantidades de los premios para cada evento, incluidos cualesquiera elementos de espectáculo no determinantes, se publicarán en el sitio o se anunciarán antes del período del concurso. Todos los premios están sujetos a cambio sin previo aviso.",
+          "SMRT eSports puede sustituir un premio por otro de igual o mayor valor si no estuviera disponible. Los premios no tienen valor en efectivo salvo indicación expresa por escrito.",
+          "Un premio de “caja misteriosa”, si se ofrece, da derecho únicamente al contenido de la caja misteriosa y no a la caja física."
+        ]
+      },
+      {
+        "heading": "VERIFICACIÓN; EXONERACIONES; PARTICIPACIÓN DE MENORES",
+        "items": [
+          "Para ser confirmado como ganador, un participante debe ser elegible, haber resuelto correctamente la pregunta de destreza, completar y firmar la declaración de conformidad y la exoneración de responsabilidad/publicidad, y presentar identificación válida cuando se le solicite.",
+          "Los participantes menores de 13 años deben contar con la firma de un padre, madre o tutor legal en la declaración y en cualquier formulario de consentimiento, y deben estar acompañados por dicho adulto para recoger cualquier premio.",
+          "No completar la verificación dentro del plazo señalado por los responsables del concurso dará lugar a la descalificación y la pérdida del premio."
+        ]
+      },
+      {
+        "heading": "RECLAMACIÓN DEL PREMIO; RECOGIDA EN PERSONA",
+        "items": [
+          "Los premios deben recogerse en persona en el evento o en el lugar designado por SMRT eSports. No recoger el premio a tiempo puede resultar en la pérdida del mismo.",
+          "Los premios se otorgan tal cual, sin ninguna garantía, expresa o implícita."
+        ]
+      },
+      {
+        "heading": "CONDUCTA; DESCALIFICACIÓN",
+        "items": [
+          "Las presentaciones incompletas, ilegibles, tardías, falsificadas o realizadas utilizando ayudas prohibidas, incluidas calculadoras, dispositivos móviles o asistencia externa, serán descalificadas.",
+          "SMRT eSports puede descalificar a cualquier persona que manipule o haga un uso indebido de cualquier aspecto del concurso, infrinja estas reglas o actúe de manera antideportiva o disruptiva."
+        ]
+      },
+      {
+        "heading": "LIMITACIÓN DE RESPONSABILIDAD Y EXONERACIÓN",
+        "items": [
+          "Al participar, los concursantes liberan de responsabilidad a SMRT eSports, sus afiliadas y a sus directivos, directores, empleados y agentes por cualquier responsabilidad derivada de la participación o de la aceptación de un premio.",
+          "SMRT eSports no es responsable por presentaciones perdidas, demoradas, mal dirigidas o corruptas, ni por errores técnicos o humanos de cualquier tipo."
+        ]
+      },
+      {
+        "heading": "PRIVACIDAD",
+        "items": [
+          "La información personal se recopila, utiliza y divulga únicamente para la administración del concurso de acuerdo con la Política de Privacidad de SMRT eSports disponible en https://smrtesports.com.",
+          "Para los participantes menores de 13 años, la información personal solo se recopilará, utilizará o divulgará con el consentimiento verificado de un padre, madre o tutor."
+        ]
+      },
+      {
+        "heading": "PUBLICIDAD",
+        "items": [
+          "Al aceptar un premio, los ganadores consienten el uso de su nombre, imagen, voz, ciudad o localidad de residencia y declaraciones con fines publicitarios por parte de SMRT eSports, sin compensación adicional, salvo que la ley lo prohíba.",
+          "Para los participantes menores de 13 años, dicho consentimiento de publicidad debe ser otorgado por un padre, madre o tutor legal."
+        ]
+      },
+      {
+        "heading": "LEY APLICABLE; DECISIONES FINALES",
+        "items": [
+          "Estas reglas se rigen por las leyes de la Provincia de Ontario y las leyes federales de Canadá aplicables.",
+          "Todas las decisiones de SMRT eSports y de los responsables del concurso son finales y vinculantes."
+        ]
+      },
+      {
+        "heading": "PREGUNTAS; INSCRIPCIÓN GRATUITa",
+        "items": [
+          "Existe un método gratuito de inscripción y consultas generales sobre el concurso a través del formulario de contacto en https://smrtesports.com, hasta agotar existencias.",
+          "Estas reglas aclaran que este concurso no es una lotería ni una rifa porque los ganadores se determinan únicamente por la destreza, y cualquier sorteo es solo para espectáculo y no tiene incidencia en la selección de ganadores."
+        ]
+      }
+    ]
   }
 }
