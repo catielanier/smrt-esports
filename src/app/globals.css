@@ -14,3 +14,63 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* Reset the section counter on the main ordered list */
+.rules-ol {
+  counter-reset: section;
+  list-style: none; /* we’ll draw our own numbers */
+  padding-left: 0; /* we’ll handle spacing ourselves */
+}
+
+/* Increment section for each article */
+.rules-ol > li {
+  counter-increment: section;
+}
+
+/* Put the main article number *inside the H2* so it inherits that font & size */
+.rule-heading {
+  position: relative;
+  padding-left: 2.25rem; /* space for the number */
+  line-height: 1.2;
+}
+
+.rule-heading::before {
+  content: counter(section) '.';
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* inherits the h2 styles so the number matches face/size/color */
+  font: inherit;
+  color: inherit;
+}
+
+/* Sublist: show “<parent>.<child>” like 1.1, 1.2 … */
+.rules-subol {
+  counter-reset: subitem;
+  list-style: none;
+  margin-top: 0.25rem;
+  padding-left: 2.25rem; /* aligns with the H2 number */
+}
+
+.rules-subol > .rule-item {
+  counter-increment: subitem;
+  position: relative;
+  padding-left: 2.25rem; /* space for 1.1 marker */
+  margin: 0.125rem 0;
+}
+
+.rules-subol > .rule-item::before {
+  content: counter(section) '.' counter(subitem) '.';
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* match the body text styling */
+  font: inherit;
+  color: currentColor;
+  opacity: 0.9; /* optional: soften slightly */
+}
+
+/* Optional: tighter spacing between sub-items */
+.rules-subol > .rule-item p {
+  margin: 0;
+}
