@@ -33,25 +33,25 @@ export default function Header({ dict }: { dict: any }) {
           <nav className="flex-grow text-center">
             <ul className="flex justify-center space-x-6 uppercase font-heading font-bold">
               <li>
-                <a href="#home">{dict.header.home}</a>
+                <a href="/#home">{dict.header.home}</a>
               </li>
               <li>
-                <a href="#about">{dict.header.about}</a>
+                <a href="/#about">{dict.header.about}</a>
               </li>
               <li>
-                <a href="#mission">{dict.header.mission}</a>
+                <a href="/#mission">{dict.header.mission}</a>
               </li>
               <li>
-                <a href="#events">{dict.header.events}</a>
+                <a href="/#events">{dict.header.events}</a>
               </li>
               <li>
-                <a href="#gallery">{dict.header.gallery}</a>
+                <a href="/#gallery">{dict.header.gallery}</a>
               </li>
               <li>
-                <a href="#sponsors">{dict.header.sponsors}</a>
+                <a href="/#sponsors">{dict.header.sponsors}</a>
               </li>
               <li>
-                <a href="#contact">{dict.header.contact}</a>
+                <a href="/#contact">{dict.header.contact}</a>
               </li>
             </ul>
           </nav>
