@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBluesky, faDiscord, faInstagram, faXTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import Link from 'next/link';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function Header({ dict }: { dict: any }) {
@@ -33,51 +34,51 @@ export default function Header({ dict }: { dict: any }) {
           <nav className="flex-grow text-center">
             <ul className="flex justify-center space-x-6 uppercase font-heading font-bold">
               <li>
-                <a href="/#home">{dict.header.home}</a>
+                <Link href="/#home">{dict.header.home}</Link>
               </li>
               <li>
-                <a href="/#about">{dict.header.about}</a>
+                <Link href="/#about">{dict.header.about}</Link>
               </li>
               <li>
-                <a href="/#mission">{dict.header.mission}</a>
+                <Link href="/#mission">{dict.header.mission}</Link>
               </li>
               <li>
-                <a href="/#events">{dict.header.events}</a>
+                <Link href="/#events">{dict.header.events}</Link>
               </li>
               <li>
-                <a href="/#gallery">{dict.header.gallery}</a>
+                <Link href="/#gallery">{dict.header.gallery}</Link>
               </li>
               <li>
-                <a href="/#sponsors">{dict.header.sponsors}</a>
+                <Link href="/#sponsors">{dict.header.sponsors}</Link>
               </li>
               <li>
-                <a href="/#contact">{dict.header.contact}</a>
+                <Link href="/#contact">{dict.header.contact}</Link>
               </li>
             </ul>
           </nav>
 
           {/* Right: Socials */}
           <div className="flex space-x-4">
-            <a href="https://x.com/SMRTesports" target="_blank" rel="noopener noreferrer">
+            <Link href="https://x.com/SMRTesports" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faXTwitter} />
-            </a>
-            <a href="https://bsky.app/profile/smrtesports.bsky.social" target="_blank" rel="noopener noreferrer">
+            </Link>
+            <Link href="https://bsky.app/profile/smrtesports.bsky.social" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faBluesky} />
-            </a>
-            <a href="https://www.instagram.com/smrtesports/" target="_blank" rel="noopener noreferrer">
+            </Link>
+            <Link href="https://www.instagram.com/smrtesports/" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faInstagram} />
-            </a>
-            <a href="https://www.youtube.com/@smrtesports" target="_blank" rel="noopener noreferrer">
+            </Link>
+            <Link href="https://www.youtube.com/@smrtesports" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faYoutube} />
-            </a>
-            <a href="https://whiff-city-discord.smrtesports.com/" target="_blank" rel="noopener noreferrer">
+            </Link>
+            <Link href="https://whiff-city-discord.smrtesports.com/" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faDiscord} />
-            </a>
+            </Link>
           </div>
         </div>
       </div>
       <div className="fixed top-0 left-0 block md:hidden mobile-menu-opener">
-        <a
+        <Link
           href="#"
           onClick={(e) => {
             e.preventDefault();
@@ -85,7 +86,7 @@ export default function Header({ dict }: { dict: any }) {
           }}
         >
           <img src="/menu.png" height={35} width={35} alt="Menu" />
-        </a>
+        </Link>
       </div>
       {isMobileMenuOpen && (
         <div className="fixed top-0 left-0 size-full h-screen bg-secondary z-[9999]">
@@ -94,39 +95,39 @@ export default function Header({ dict }: { dict: any }) {
           </div>
           <div className="flex flex-col justify-around items-center font-heading font-bold uppercase h-screen">
             <div>
-              <a href="#home" onClick={changeMenu}>
+              <Link href="#home" onClick={changeMenu}>
                 {dict.header.home}
-              </a>
+              </Link>
             </div>
             <div>
-              <a href="#about" onClick={changeMenu}>
+              <Link href="#about" onClick={changeMenu}>
                 {dict.header.about}
-              </a>
+              </Link>
             </div>
             <div>
-              <a href="#mission" onClick={changeMenu}>
+              <Link href="#mission" onClick={changeMenu}>
                 {dict.header.mission}
-              </a>
+              </Link>
             </div>
             <div>
-              <a href="#events" onClick={changeMenu}>
+              <Link href="#events" onClick={changeMenu}>
                 {dict.header.events}
-              </a>
+              </Link>
             </div>
             <div>
-              <a href="#gallery" onClick={changeMenu}>
+              <Link href="#gallery" onClick={changeMenu}>
                 {dict.header.gallery}
-              </a>
+              </Link>
             </div>
             <div>
-              <a href="#sponsors" onClick={changeMenu}>
+              <Link href="#sponsors" onClick={changeMenu}>
                 {dict.header.sponsors}
-              </a>
+              </Link>
             </div>
             <div>
-              <a href="#contact" onClick={changeMenu}>
+              <Link href="#contact" onClick={changeMenu}>
                 {dict.header.contact}
-              </a>
+              </Link>
             </div>
           </div>
         </div>
