@@ -1,5 +1,6 @@
 import '@/app/globals.css';
 import ThemeProvider from '@/components/layouts/ThemeProvider';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function RootLayout({
   children,
@@ -13,6 +14,7 @@ export default function RootLayout({
         <title>SMRT eSports</title>
       </head>
       <body>
+        <Analytics />
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
