@@ -5,6 +5,7 @@ import NavArrows from '@/components/NavArrows';
 import Sponsors from '@/components/Sponsors';
 import getDictionary from '@/i18n/getDictionary';
 import { parseRichText } from '@/lib/parseRichText';
+import Link from 'next/link';
 import React from 'react';
 
 export default async function Home({
@@ -121,6 +122,14 @@ export default async function Home({
         <Sponsors dict={dict} />
         <Contact dict={dict} />
       </main>
+      <footer className="bg-secondary text-highlight text-center py-6 font-body">
+        <p className="mb-2">
+          &copy; 2025 {dict.footer.name}. {dict.footer.rights}
+        </p>
+        <Link href="/contest-rules" className="underline hover:text-accent transition-colors">
+          {dict.footer.viewRules}
+        </Link>
+      </footer>
     </>
   );
 }

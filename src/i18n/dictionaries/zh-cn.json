@@ -153,6 +153,11 @@
       }
     ]
   },
+  "footer": {
+    "name": "SMRT eSports",
+    "rights": "版权所有。",
+    "viewRules": "查看比赛规则"
+  },
   "contact": {
     "title": "联系我们",
     "placeholders": {

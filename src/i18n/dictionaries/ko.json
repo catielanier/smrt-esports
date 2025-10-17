@@ -156,6 +156,11 @@
       }
     ]
   },
+  "footer": {
+    "name": "SMRT eSports",
+    "rights": "판권 소유.",
+    "viewRules": "이벤트 규칙 보기"
+  },
   "contact": {
     "title": "문의하기",
     "placeholders": {

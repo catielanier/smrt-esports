@@ -156,6 +156,11 @@
       }
     ]
   },
+  "footer": {
+    "name": "SMRT eSports",
+    "rights": "Tous droits réservés.",
+    "viewRules": "Voir le règlement du concours"
+  },
   "contact": {
     "title": "Contactez-Nous",
     "placeholders": {

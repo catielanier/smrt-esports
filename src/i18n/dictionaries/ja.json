@@ -156,6 +156,11 @@
       }
     ]
   },
+  "footer": {
+    "name": "SMRT eSports",
+    "rights": "無断転載を禁じます。",
+    "viewRules": "コンテスト規約を見る"
+  },
   "contact": {
     "title": "お問い合わせ",
     "placeholders": {

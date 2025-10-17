@@ -156,6 +156,11 @@
       }
     ]
   },
+  "footer": {
+    "name": "SMRT eSports",
+    "rights": "All rights reserved.",
+    "viewRules": "View Contest Rules"
+  },
   "contact": {
     "title": "Contact Us",
     "placeholders": {
