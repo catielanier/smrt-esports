@@ -167,123 +167,85 @@
     "success": "Votre message a été envoyé avec succès !"
   },
   "rules": {
-    "title": "RÈGLES ET RÈGLEMENTS DU CONCOURS DE PRIX",
-    "subtitle": "Concours de prix basé sur l’habileté de SMRT eSports",
-    "lastUpdated": "8 octobre 2025",
-    "important": "IL S’AGIT D’UN CONCOURS BASÉ SUR L’HABILETÉ. CE N’EST NI UNE LOTERIE NI UNE TOMBOLA. AUCUN ACHAT REQUIS.",
+    "title": "Règles officielles des concours SMRT eSports",
+    "subtitle": "Les présentes Règles officielles régissent tous les concours promotionnels (« Concours ») organisés par SMRT eSports et ses filiales désignées (collectivement, « l’Organisateur »).",
+    "lastUpdated": "17 octobre 2025",
     "articles": [
       {
-        "heading": "ADMISSIBILITÉ",
+        "heading": "Admissibilité",
         "items": [
-          "Le concours de prix basé sur l’habileté de SMRT eSports est ouvert aux résidents de l’Ontario, Canada, âgés de 13 ans ou plus au moment de l’inscription.",
-          "Les participants de moins de 13 ans ne peuvent participer que si un parent ou tuteur légal fournit un consentement écrit et co-signe les documents requis.",
-          "Les employés, sous-traitants et représentants de SMRT eSports, ainsi que les membres de leur foyer immédiat, ne sont pas admissibles à gagner."
+          "Ouvert aux résidents de l’Ontario âgés d’au moins treize ans au moment de l’inscription.",
+          "Les participants de moins de dix-huit ans doivent obtenir le consentement d’un parent ou tuteur légal pour participer et pour recevoir tout prix."
         ]
       },
       {
-        "heading": "NATURE DU CONCOURS; PAS UNE LOTERIE NI UNE TOMBOLA",
+        "heading": "Comment participer",
         "items": [
-          "Ce concours est une compétition basée sur l’habileté. Les gagnants sont déterminés uniquement selon la résolution correcte de la question mathématique désignée conformément aux présentes règles.",
-          "Aucun élément de hasard n’est utilisé pour déterminer les gagnants.",
-          "Tout « tirage » ou sélection sur scène présenté durant l’événement sert uniquement à la mise en scène et au divertissement et n’a aucun effet sur l’admissibilité, la sélection ou les chances de gagner. Le tirage n’a aucun effet juridique sur le résultat."
+          "Les participants admissibles peuvent obtenir des inscriptions au Concours de plusieurs façons pendant la période de l’événement et doivent confirmer l’accomplissement auprès du personnel de l’événement.",
+          "La participation à un tournoi donne droit à une inscription au Concours lorsqu’un participant s’inscrit et joue à tout événement de tournoi officiel de SMRT eSports, y compris les tableaux à entrée gratuite.",
+          "Des inscriptions liées à l’engagement communautaire peuvent être obtenues en suivant SMRT eSports sur une plateforme officielle de médias sociaux, en suivant la chaîne Twitch officielle de SMRT eSports, en s’abonnant à la chaîne YouTube officielle de SMRT eSports ou en suivant des chaînes ou comptes affiliés supplémentaires désignés pour cet événement.",
+          "Des inscriptions achetées sur place peuvent être offertes comme option de collecte de fonds à chaque événement, sous réserve de la disponibilité et des limites propres à l’événement.",
+          "Toutes les inscriptions doivent être reçues avant l’heure de clôture du concours annoncée pour l’événement concerné."
         ]
       },
       {
-        "heading": "PÉRIODE DU CONCOURS; LIMITE D’INSCRIPTION; AUCUN ACHAT REQUIS",
+        "heading": "Période du concours",
         "items": [
-          "La période du concours pour chaque événement correspond à la date et à l’heure de l’événement telles qu’indiquées sur la page d’événement SMRT eSports à l’adresse https://start.gg/whiffcity. La période du concours se termine automatiquement à 23 h 59, heure locale, à la date de l’événement.",
-          "Chaque participant peut effectuer une seule tentative au défi d’habileté par date d’événement. Les inscriptions multiples ou automatisées sont nulles.",
-          "Aucun achat, paiement ou don n’est requis pour participer ou gagner. Le paiement de l’entrée à l’événement, le cas échéant, n’augmente pas les chances de gagner. Une méthode d’inscription gratuite est offerte en soumettant le formulaire de contact sur https://smrtesports.com, jusqu’à épuisement des stocks, ou en suivant les instructions affichées sur place lors de l’événement."
+          "Chaque Concours se déroule à la date d’événement SMRT eSports annoncée et au lieu précisé.",
+          "Les inscriptions ferment à l’heure annoncée par le personnel de l’événement, et le tirage aléatoire a lieu le même jour à l’heure de tirage indiquée."
         ]
       },
       {
-        "heading": "COMMENT PARTICIPER AU CONCOURS D’HABILETÉ",
+        "heading": "Sélection des gagnants",
         "items": [
-          "Pendant la période du concours, les participants admissibles peuvent obtenir une carte-réponse ou un formulaire numérique, selon les instructions à l’événement, et tenter la question d’habileté.",
-          "Question d’habileté requise : (150 ÷ 3) + (180 × 3) − 55. Divisez 150 par 3, puis ajoutez le résultat à 180 multiplié par 3, et soustrayez finalement 55.",
-          "Les participants doivent résoudre la question d’habileté sans aide (aucune calculatrice, aucun téléphone, aucune assistance extérieure) et soumettre leur réponse finale unique dans le format et le délai annoncés par les responsables du concours."
+          "Toutes les inscriptions admissibles sont placées dans un tirage au sort effectué par des représentants de SMRT eSports.",
+          "Les personnes sélectionnées doivent être présentes sur le lieu au moment du tirage.",
+          "Pour être déclarée gagnante, la personne sélectionnée doit répondre correctement, sans aide et dans un délai limité, à une question mathématique d’habileté en plusieurs étapes administrée par le personnel de l’événement.",
+          "Si la personne sélectionnée est absente, refuse le prix, échoue à répondre correctement ou est autrement inadmissible, une autre personne peut être tirée."
         ]
       },
       {
-        "heading": "DÉTERMINATION DES GAGNANTS (COMPÉTENCE SEULEMENT)",
+        "heading": "Prix",
         "items": [
-          "Des prix sont attribués uniquement aux participants qui soumettent la réponse finale correcte pendant la période du concours.",
-          "Si le nombre de soumissions correctes dépasse le nombre de prix disponibles pour cet événement, les prix seront attribués aux premières soumissions correctes selon l’horodatage officiel enregistré par les responsables du concours.",
-          "En cas d’égalité de temps au seuil du dernier prix disponible, les participants à égalité compléteront chacun une courte question d’habileté supplémentaire de difficulté comparable. La première réponse juste au bris d’égalité recevra le ou les prix.",
-          "Aucune sélection aléatoire, loterie ou tombola n’est utilisée pour déterminer les gagnants."
+          "Les prix de chaque Concours sont annoncés avant ou pendant l’événement, avec leur valeur au détail approximative.",
+          "Les prix doivent être acceptés tels quels et n’ont aucune valeur en argent; aucune substitution n’est permise sauf à la discrétion de l’Organisateur.",
+          "Les gagnants de moins de dix-huit ans doivent être accompagnés d’un parent ou tuteur légal, ou fournir un consentement écrit, afin de recevoir leur prix.",
+          "Tous les prix doivent être réclamés en personne lors de l’événement; les prix non réclamés seront annulés et peuvent faire l’objet d’un nouveau tirage à la discrétion de l’Organisateur."
         ]
       },
       {
-        "heading": "LE « TIRAGE » EST À DES FINS DE MISE EN SCÈNE SEULEMENT",
+        "heading": "Chances de gagner",
         "items": [
-          "Tout tirage présenté sur scène, en diffusion ou à l’écran est un segment cérémonial et divertissant visant à mobiliser le public et n’altère pas l’admissibilité, la sélection ou les résultats.",
-          "Tous les messages au public, accessoires ou éléments graphiques se référant à un tirage sont purement théâtraux. Les gagnants officiels sont déterminés exclusivement selon les sections sur la participation au concours d’habileté et la détermination des gagnants."
+          "Les chances de gagner dépendent du nombre total d’inscriptions admissibles reçues pour l’événement en question."
         ]
       },
       {
-        "heading": "PRIX; MODIFICATIONS; SUBSTITUTIONS",
+        "heading": "Conditions générales",
         "items": [
-          "Pour le concours d’habileté décrit dans ces règles, le seul prix offert à un gagnant admissible est un autocollant Whiff City d’une valeur au détail approximative n’excédant pas 0,01 $ CA. Aucune contrepartie en espèces ni considération supplémentaire n’est offerte.",
-          "La description et la quantité des prix pour chaque événement, y compris tout élément de mise en scène non déterminant, seront affichées sur place ou annoncées avant la période du concours. Tous les prix peuvent être modifiés sans préavis.",
-          "SMRT eSports peut remplacer un prix par un prix de valeur égale ou supérieure s’il est indisponible. Les prix n’ont aucune valeur en argent, sauf indication expresse par écrit.",
-          "Un prix « boîte mystère », s’il est offert, donne droit uniquement au contenu de la boîte mystère et non à la boîte physique."
+          "En participant, les concurrents acceptent de se conformer aux présentes Règles officielles et aux décisions de SMRT eSports, qui sont finales et exécutoires.",
+          "SMRT eSports se réserve le droit d’annuler, de modifier ou de suspendre tout Concours si une fraude, des défaillances techniques ou d’autres problèmes compromettent son équité ou son intégrité.",
+          "L’Organisateur n’est pas responsable des inscriptions perdues, en retard, mal acheminées ou incomplètes, ni des dysfonctionnements techniques affectant la participation.",
+          "L’Organisateur peut disqualifier toute personne qui manipule le processus d’inscription ou qui enfreint les présentes Règles officielles."
         ]
       },
       {
-        "heading": "VÉRIFICATION; DÉCHARGES; PARTICIPATION DES MINEURS",
+        "heading": "Publicité et confidentialité",
         "items": [
-          "Pour être confirmé gagnant, un participant doit être admissible, avoir correctement résolu la question d’habileté, remplir et signer la déclaration de conformité et de décharge de responsabilité/publicité, et présenter une pièce d’identité valide sur demande.",
-          "Les participants de moins de 13 ans doivent faire signer la déclaration et tout formulaire de consentement par un parent ou tuteur légal et être accompagnés de celui-ci pour la cueillette de tout prix.",
-          "Le défaut de compléter la vérification dans le délai fixé par les responsables du concours entraînera la disqualification et la perte du prix."
+          "En acceptant un prix, les gagnants consentent à l’utilisation de leur nom, ville de résidence, image et détails de participation aux tournois à des fins promotionnelles liées aux activités de SMRT eSports, sans compensation supplémentaire, sauf là où la loi l’interdit.",
+          "Les renseignements personnels recueillis sont utilisés uniquement pour l’administration du Concours et les communications liées à SMRT eSports, conformément aux lois applicables en matière de protection de la vie privée."
         ]
       },
       {
-        "heading": "RÉCLAMATION DU PRIX; CUEILLETTE EN PERSONNE",
+        "heading": "Objectif de financement",
         "items": [
-          "Les prix doivent être récupérés en personne à l’événement ou à l’endroit désigné par SMRT eSports. Le défaut de récupérer à temps peut entraîner la perte du prix.",
-          "Les prix sont remis tels quels, sans aucune garantie, expresse ou implicite."
+          "Les recettes provenant de la vente d’inscriptions sur place soutiennent les coûts opérationnels continus et les activités de développement communautaire des événements et programmes de SMRT eSports."
         ]
       },
       {
-        "heading": "CONDUITE; DISQUALIFICATION",
+        "heading": "Avis juridique",
         "items": [
-          "Les soumissions incomplètes, illisibles, en retard, falsifiées ou effectuées à l’aide d’aides interdites, notamment calculatrices, appareils mobiles ou assistance extérieure, seront disqualifiées.",
-          "SMRT eSports peut disqualifier toute personne qui trafique ou abuse de quelque aspect du concours, enfreint les présentes règles ou adopte un comportement antisportif ou perturbateur."
-        ]
-      },
-      {
-        "heading": "LIMITATION DE RESPONSABILITÉ ET DÉCHARGE",
-        "items": [
-          "En participant, les concurrents dégagent de toute responsabilité SMRT eSports, ses sociétés affiliées et leurs dirigeants, administrateurs, employés et agents à l’égard de toute responsabilité découlant de la participation ou de l’acceptation d’un prix.",
-          "SMRT eSports n’est pas responsable des soumissions perdues, retardées, mal acheminées ou corrompues, ni des erreurs techniques ou humaines de quelque nature que ce soit."
-        ]
-      },
-      {
-        "heading": "CONFIDENTIALITÉ",
-        "items": [
-          "Les renseignements personnels sont recueillis, utilisés et divulgués uniquement aux fins d’administration du concours, conformément à la politique de confidentialité de SMRT eSports disponible à l’adresse https://smrtesports.com.",
-          "Pour les participants de moins de 13 ans, les renseignements personnels ne seront recueillis, utilisés ou divulgués qu’avec le consentement vérifié d’un parent ou tuteur."
-        ]
-      },
-      {
-        "heading": "PUBLICITÉ",
-        "items": [
-          "En acceptant un prix, les gagnants consentent à l’utilisation de leur nom, image, voix, ville ou localité de résidence et déclarations à des fins publicitaires par SMRT eSports, sans compensation supplémentaire, sauf si la loi l’interdit.",
-          "Pour les participants de moins de 13 ans, ce consentement publicitaire doit être fourni par un parent ou tuteur légal."
-        ]
-      },
-      {
-        "heading": "LOI APPLICABLE; DÉCISIONS FINALES",
-        "items": [
-          "Les présentes règles sont régies par les lois de la province de l’Ontario et les lois fédérales du Canada applicables.",
-          "Toutes les décisions de SMRT eSports et des responsables du concours sont finales et contraignantes."
-        ]
-      },
-      {
-        "heading": "QUESTIONS; MÉTHODE D’INSCRIPTION GRATUITE",
-        "items": [
-          "Une méthode d’inscription gratuite et les questions générales au sujet du concours sont disponibles via le formulaire de contact sur https://smrtesports.com, jusqu’à épuisement des stocks.",
-          "Les présentes règles précisent que ce concours n’est ni une loterie ni une tombola, car les gagnants sont déterminés uniquement par l’habileté, et tout tirage est seulement destiné à la mise en scène sans incidence sur la sélection des gagnants."
+          "Chaque Concours vise à se conformer aux lois canadiennes et ontariennes relatives aux concours et est nul là où il est interdit.",
+          "Ces Concours ne sont pas des loteries autorisées par la Commission des alcools et des jeux de l’Ontario, et aucun achat n’est requis pour obtenir au moins une inscription."
         ]
       }
     ]

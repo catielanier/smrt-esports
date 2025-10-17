@@ -167,123 +167,83 @@
     "success": "Your message has been sent successfully!"
   },
   "rules": {
-    "title": "PRIZE CONTEST RULES AND REGULATIONS",
-    "subtitle": "SMRT eSports Skill-based Prize Contest",
-    "lastUpdated": "October 8, 2025",
-    "important": "THIS IS A SKILL-BASED PRIZE CONTEST. IT IS NOT A LOTTERY OR A RAFFLE. NO PURCHASE NECESSARY.",
+    "title": "SMRT eSports Official Contest Rules",
+    "subtitle": "These Official Rules govern all promotional contests (“Contests”) conducted by SMRT eSports and its designated affiliates (collectively, “the Organizer”).",
+    "lastUpdated": "October 17, 2025",
     "articles": [
       {
-        "heading": "ELIGIBILITY",
+        "heading": "Eligibility",
         "items": [
-          "The SMRT eSports Skill-based Prize Contest is open to residents of Ontario, Canada who are 13 years of age or older at the time of entry.",
-          "Contestants younger than 13 years of age may participate only if a parent or legal guardian provides written consent and co-signs required documentation.",
-          "Employees, contractors, and representatives of SMRT eSports, and members of their immediate households, are not eligible to win."
+          "Open to residents of Ontario who are thirteen years of age or older at the time of entry.",
+          "Entrants under eighteen years of age must have the consent of a parent or legal guardian to participate and to collect any prize."
         ]
       },
       {
-        "heading": "NATURE OF CONTEST; NOT A LOTTERY OR RAFFLE",
+        "heading": "How to Enter",
         "items": [
-          "This contest is a skill-based competition. Winners are determined solely based on correctly solving the designated mathematics question in accordance with these rules.",
-          "There is no element of chance used to determine winners.",
-          "Any draw or on-stage selection displayed during the event is for showmanship and entertainment only and does not affect eligibility, selection, or odds of winning. The draw has no legal effect on the outcome."
+          "Eligible participants may obtain Contest entries in multiple ways during the event period and must confirm completion with event staff.",
+          "Tournament participation provides one Contest entry when a participant registers for and plays in any official SMRT eSports tournament event, including free-entry brackets.",
+          "Community engagement entries may be earned by following SMRT eSports on an official social-media platform, following the official SMRT eSports Twitch channel, subscribing to the official SMRT eSports YouTube channel, or following additional affiliate channels or accounts designated for that event.",
+          "On-site purchase entries may be available as a fundraiser option at each event, subject to availability and event-specific limits.",
+          "All entries must be received before the announced contest closing time for the specific event."
         ]
       },
       {
-        "heading": "CONTEST WINDOW; ENTRY LIMIT; NO PURCHASE NECESSARY",
+        "heading": "Contest Period",
         "items": [
-          "The contest window for each event is the event date and time as listed on the SMRT eSports event page at https://start.gg/whiffcity. The contest window automatically closes at 11:59 p.m. local time on the event date.",
-          "Each participant may make only one skill challenge attempt per event date. Multiple or automated entries are void.",
-          "No purchase, payment, or donation is required to enter or win. Paying event admission does not increase chances of winning. A free method of entry is available by submitting the contact form at https://smrtesports.com while supplies last or by following posted in-person instructions at the event."
+          "Each Contest takes place during the announced SMRT eSports event date at the specified venue.",
+          "Entries close at the time announced by event staff, and the random draw will occur on the same day at approximately the posted draw time."
         ]
       },
       {
-        "heading": "HOW TO ENTER THE SKILL CONTEST",
+        "heading": "Winner Selection",
         "items": [
-          "During the contest window, eligible participants may obtain an answer card or digital form as instructed at the event and attempt the skill question.",
-          "Required skill question: (150 ÷ 3) + (180 × 3) − 55. Divide 150 by 3, then add the result to 180 multiplied by 3, finally subtract 55.",
-          "Participants must solve the skill question unaided and submit their single final answer in the format and within the time limit announced by the contest officials."
+          "All eligible entries are placed into a random draw conducted by SMRT eSports representatives.",
+          "Selected entrants must be present at the venue at the time of the draw.",
+          "To be declared a winner, the selected entrant must correctly answer a time-limited, unaided, multi-step skill-testing mathematical question administered by event staff.",
+          "If a selected entrant is not present, declines the prize, fails to answer correctly, or is otherwise ineligible, an alternate entrant may be drawn."
         ]
       },
       {
-        "heading": "WINNER DETERMINATION (SKILL ONLY)",
+        "heading": "Prizes",
         "items": [
-          "Prizes are awarded only to participants who submit the correct final answer within the contest window.",
-          "If the number of correct submissions exceeds the number of available prizes for that event, prizes will be awarded to the earliest correct submissions based on the official timestamp recorded by the contest officials.",
-          "If a timing tie occurs at the cutoff for the final available prize or prizes, tied participants will each complete an additional skill question of comparable difficulty. The earliest correct tiebreak answer or answers will receive the prize or prizes.",
-          "No random selection, lottery, or raffle mechanics are used to determine winners."
+          "Prizes for each Contest are announced in advance of or during the event, along with their approximate retail value.",
+          "Prizes must be accepted as awarded and have no cash value; substitutions are not permitted except at the Organizer’s discretion.",
+          "Winners under eighteen years of age must have a parent or legal guardian present, or provide written consent, in order to receive their prize.",
+          "All prizes must be claimed in person at the event; unclaimed prizes will be forfeited and may be re-drawn at the Organizer’s discretion."
         ]
       },
       {
-        "heading": "DRAW IS FOR SHOWMANSHIP ONLY",
+        "heading": "Odds of Winning",
+        "items": ["Odds of winning depend on the total number of eligible entries received for the particular event."]
+      },
+      {
+        "heading": "General Conditions",
         "items": [
-          "Any on-stage, streamed, or displayed draw is a ceremonial, entertainment-focused segment designed to engage the audience and does not alter eligibility, selection, or outcomes.",
-          "All audience prompts, props, or graphics that refer to a draw are purely theatrical. The legal winners are determined exclusively under the skill contest entry and winner determination sections."
+          "By entering, participants agree to abide by these Official Rules and the decisions of SMRT eSports, which are final and binding.",
+          "SMRT eSports reserves the right to cancel, modify, or suspend any Contest if fraud, technical failures, or other issues compromise its fairness or integrity.",
+          "The Organizer is not responsible for lost, late, misdirected, or incomplete entries, or for technical malfunctions affecting participation.",
+          "The Organizer may disqualify any person who tampers with the entry process or violates these Official Rules."
         ]
       },
       {
-        "heading": "PRIZES; CHANGES; SUBSTITUTIONS",
+        "heading": "Publicity and Privacy",
         "items": [
-          "For the skill contest described in these rules, the sole prize available to a qualifying winner is one Whiff City sticker with an approximate retail value of no more than $0.01 CAD. No cash alternative or additional consideration is offered.",
-          "Prize descriptions and quantities for each event, including any non-determinative showmanship elements, will be posted on-site or announced prior to the contest window. All prizes are subject to change without notice.",
-          "SMRT eSports may substitute a prize with one of equal or greater value if unavailable. Prizes have no cash value unless expressly stated in writing.",
-          "A mystery box prize, if offered, entitles the winner to the contents of the mystery box only and not the physical box."
+          "By accepting a prize, winners consent to the use of their name, city of residence, likeness, and tournament participation details for promotional purposes in connection with SMRT eSports activities, without additional compensation, except where prohibited by law.",
+          "Personal information collected is used solely for administration of the Contest and related SMRT eSports communications, in accordance with applicable privacy laws."
         ]
       },
       {
-        "heading": "VERIFICATION; RELEASES; MINOR PARTICIPATION",
+        "heading": "Fundraising Purpose",
         "items": [
-          "To be confirmed as a winner, a participant must be eligible, have correctly solved the skill question, complete and sign the declaration of compliance and liability/publicity release, and present valid identification upon request.",
-          "Participants younger than 13 years of age must have a parent or legal guardian sign the declaration and any consent forms, and accompany the participant to collect any prize.",
-          "Failure to complete verification within the time specified by the contest officials will result in disqualification and forfeiture of the prize."
+          "Proceeds from the sale of on-site entries support the ongoing operational and community-building costs of SMRT eSports events and programming."
         ]
       },
       {
-        "heading": "PRIZE CLAIM; IN-PERSON COLLECTION",
+        "heading": "Legal Notice",
         "items": [
-          "Prizes must be collected in person at the event or at the designated location communicated by SMRT eSports. Failure to collect on time may result in forfeiture.",
-          "Prizes are awarded as is, without any warranty, express or implied."
-        ]
-      },
-      {
-        "heading": "CONDUCT; DISQUALIFICATION",
-        "items": [
-          "Submissions that are incomplete, illegible, late, forged, or made using prohibited aids, including calculators, mobile devices, or outside assistance, will be disqualified.",
-          "SMRT eSports may disqualify any individual who tampers with or abuses any aspect of the contest, violates these rules, or acts in an unsportsmanlike or disruptive manner."
-        ]
-      },
-      {
-        "heading": "LIABILITY LIMITATION AND RELEASE",
-        "items": [
-          "By participating, entrants release SMRT eSports, its affiliates, and their officers, directors, employees, and agents from any liability arising from participation or prize acceptance.",
-          "SMRT eSports is not responsible for lost, delayed, misdirected, or corrupted submissions, or for technical or human errors of any kind."
-        ]
-      },
-      {
-        "heading": "PRIVACY",
-        "items": [
-          "Personal information is collected, used, and disclosed solely for contest administration in accordance with the SMRT eSports Privacy Policy available at https://smrtesports.com.",
-          "For participants younger than 13 years of age, personal information will only be collected, used, or disclosed with verified parental or guardian consent."
-        ]
-      },
-      {
-        "heading": "PUBLICITY",
-        "items": [
-          "By accepting a prize, winners consent to the use of their name, likeness, voice, city or town of residence, and statements for publicity purposes by SMRT eSports, without additional compensation, unless prohibited by law.",
-          "For participants younger than 13 years of age, such publicity consent must be provided by a parent or legal guardian."
-        ]
-      },
-      {
-        "heading": "GOVERNING LAW; DECISIONS FINAL",
-        "items": [
-          "These rules are governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein.",
-          "All decisions of SMRT eSports and the contest officials are final and binding."
-        ]
-      },
-      {
-        "heading": "QUESTIONS; FREE ENTRY",
-        "items": [
-          "A free method of entry and general contest inquiries are available via the contact form at https://smrtesports.com while supplies last.",
-          "These rules clarify that this contest is not a lottery or a raffle because winners are determined solely by skill, and any draw is for showmanship only and has no bearing on winner selection."
+          "Each Contest is intended to comply with the contest laws of Canada and the Province of Ontario and is void where prohibited.",
+          "These Contests are not licensed lotteries under the Alcohol and Gaming Commission of Ontario, and no purchase is required to obtain at least one entry."
         ]
       }
     ]

@@ -46,33 +46,12 @@ export default async function RulesPage({
                           ? '최종 업데이트'
                           : lang === 'zh-CN'
                             ? '最后更新'
-                            : lang === 'zh-TW'
+                            : lang === 'zh-TW' || lang === 'zh-HK' || lang === 'zh-SG'
                               ? '最後更新'
                               : 'Last Updated'}
                   {': '}
                   {rules.lastUpdated}
                 </p>
-              )}
-              {rules.important && (
-                <div className="mt-4 p-4 border border-accent/50 bg-secondary text-highlight rounded-lg">
-                  <strong className="block font-heading mb-1">
-                    {lang === 'fr'
-                      ? 'Important'
-                      : lang === 'es'
-                        ? 'Importante'
-                        : lang === 'ja'
-                          ? '重要'
-                          : lang === 'ko'
-                            ? '중요'
-                            : lang === 'zh-CN'
-                              ? '重要'
-                              : lang === 'zh-TW'
-                                ? '重要'
-                                : 'Important'}
-                    :
-                  </strong>
-                  <span>{rules.important}</span>
-                </div>
               )}
             </header>
 

@@ -1,6 +1,6 @@
 import '@/app/globals.css';
 import ThemeProvider from '@/components/layouts/ThemeProvider';
-import { Analytics } from '@vercel/analytics/react';
+import { Analytics } from '@vercel/analytics/next';
 
 export default function RootLayout({
   children,
