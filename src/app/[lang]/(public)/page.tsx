@@ -126,6 +126,7 @@ export default async function Home({
         <p className="mb-2">
           &copy; 2025 {dict.footer.name}. {dict.footer.rights}
         </p>
+        <p className="mb-2">{dict.footer.landAcknowledgement}</p>
         <Link href="/contest-rules" className="underline hover:text-accent transition-colors">
           {dict.footer.viewRules}
         </Link>
