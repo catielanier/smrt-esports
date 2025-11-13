@@ -7,6 +7,7 @@ interface SponsorProps {
     sponsors: {
       heading: string;
       brands: { name: string; logo: string; url: string }[];
+      contactUs: string;
     };
   };
 }
@@ -57,6 +58,7 @@ const Sponsors: React.FC<SponsorProps> = ({ dict }) => {
             );
           })}
         </ul>
+        <p className="mt-12">{dict.sponsors.contactUs}</p>
       </div>
     </section>
   );
