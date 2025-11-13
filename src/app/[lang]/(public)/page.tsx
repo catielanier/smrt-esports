@@ -35,6 +35,7 @@ export default async function Home({
           >
             <source src="/smrt.webm" type="video/webm" />
             <source src="/smrt.mp4" type="video/mp4" />
+            <source src="/smrt.ogv" type="video/ogg" />
           </video>
         </header>
         <section className={'pb-12 pt-16 px-6'} id={'about'}>
