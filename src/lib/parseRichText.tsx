@@ -4,7 +4,7 @@ import React from 'react';
  * Parses a string with <a href="..." class="...">text</a> and returns an array of React nodes.
  * Supports href and class attributes in any order.
  */
-export function parseRichText(paragraph: string): React.ReactNode[] {
+export function parseRichText(paragraph: string, isInNewTab: boolean = true): React.ReactNode[] {
   // Match <a ...>text</a> with href and optional class in any order
   const regex = /<a\s+([^>]+)>(.*?)<\/a>/gi;
   const result: React.ReactNode[] = [];
@@ -29,12 +29,19 @@ export function parseRichText(paragraph: string): React.ReactNode[] {
     if (index > lastIndex) {
       result.push(paragraph.slice(lastIndex, index));
     }
-
-    result.push(
-      <a key={`${href}-${index}`} href={href} target="_blank" rel="noopener noreferrer" className={className}>
-        {linkText}
-      </a>,
-    );
+    if (isInNewTab) {
+      result.push(
+        <a key={`${href}-${index}`} href={href} target="_blank" rel="noopener noreferrer" className={className}>
+          {linkText}
+        </a>,
+      );
+    } else {
+      result.push(
+        <a key={`${href}-${index}`} href={href} className={className}>
+          {linkText}
+        </a>,
+      );
+    }
 
     lastIndex = index + fullMatch.length;
   }
