@@ -76,11 +76,11 @@ export default async function Home({
         <section className="bg-background pb-12 pt-16 px-6" id="events">
           <div className="inner">
             <h2 className={'ml-4 md:ml-0 text-3xl font-heading text-accent'}>{dict.header.events}</h2>
-            <div className="md:grid grid-cols-4 gap-4 pt-6">
+            <div className="flex flex-col md:grid md:grid-cols-4 gap-4 pt-6">
               {dict.events.map((event, idx) => (
                 <div
                   key={idx}
-                  className={`grid grid-rows-[1fr,2fr] h-full px-4 py-5 ${idx % 2 === 0 ? 'bg-accent text-background' : 'bg-secondary'}`}
+                  className={`grid auto-rows-auto md:grid-rows-[1fr,2fr] md:h-full px-4 py-5 mb-4 md:mb-0 ${idx % 2 === 0 ? 'bg-accent text-background' : 'bg-secondary'}`}
                 >
                   <div className="flex justify-center items-center overflow-hidden">
                     <a href={event.url} target="_blank" rel="noreferrer noopener">
