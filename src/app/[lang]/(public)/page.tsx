@@ -6,6 +6,7 @@ import Sponsors from '@/components/Sponsors';
 import getDictionary from '@/i18n/getDictionary';
 import { parseRichText } from '@/lib/parseRichText';
 import Link from 'next/link';
+import Image from 'next/image';
 import React from 'react';
 
 export default async function Home({
@@ -23,20 +24,7 @@ export default async function Home({
       <main className={'bg-background text-text font-body min-h-screen'}>
         <Header dict={dict} />
         <header className={'text-highlight text-center justify-center items-center flex'} id={'home'}>
-          <video
-            autoPlay={true}
-            controls={false}
-            loop={true}
-            muted={true}
-            disableRemotePlayback
-            disablePictureInPicture
-            className="pointer-events-none"
-            playsInline={true}
-          >
-            <source src="/smrt.webm" type="video/webm" />
-            <source src="/smrt.mp4" type="video/mp4" />
-            <source src="/smrt.ogv" type="video/ogg" />
-          </video>
+          <Image src="/hero.jpg" alt="" aria-hidden={true} height={1080} width={1920} />
         </header>
         <section className={'pb-12 pt-16 px-6'} id={'about'}>
           <div className={'inner'}>
@@ -128,6 +116,7 @@ export default async function Home({
           &copy; 2025 {dict.footer.name}. {dict.footer.rights}
         </p>
         <p className="mb-2">{dict.footer.landAcknowledgement}</p>
+        <p className="mb-2">{parseRichText(dict.footer.featuredImage)}</p>
         <Link href="/contest-rules" className="underline hover:text-accent transition-colors">
           {dict.footer.viewRules}
         </Link>
