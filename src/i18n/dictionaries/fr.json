@@ -135,9 +135,14 @@
         "url": "https://canadianjoysticks.com/"
       },
       {
-        "name": "Licious cuisine italienne et service traiteur",
-        "logo": "licious.png",
-        "url": "https://liciousbakerycafe.ca/"
+        "name": "Pub irlandais Donaleigh",
+        "logo": "donaleighs.png",
+        "url": "https://donaleighs.com/"
+      },
+      {
+        "name": "Cartes & Sous-verres",
+        "logo": "cac.png",
+        "url": "https://cardsandcoasters.com/"
       }
     ],
     "contactUs": "Contactez-nous pour des opportunités de parrainage publicitaire abordables."

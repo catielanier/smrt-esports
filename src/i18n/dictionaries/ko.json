@@ -130,14 +130,19 @@
     "heading": "우리의 자랑스러운 후원사",
     "brands": [
       {
-        "name": "Canadian Joysticks",
+        "name": "캐나다 조이스틱",
         "logo": "cj.png",
         "url": "https://canadianjoysticks.com/"
       },
       {
-        "name": "Licious 이탈리아 음식 및 케이터링",
-        "logo": "licious.png",
-        "url": "https://liciousbakerycafe.ca/"
+        "name": "도널리 아일랜드 펍",
+        "logo": "donaleighs.png",
+        "url": "https://donaleighs.com/"
+      },
+      {
+        "name": "카드 & 코스터",
+        "logo": "cac.png",
+        "url": "https://cardsandcoasters.com/"
       }
     ],
     "contactUs": "문의하기 저렴한 광고 후원 기회에 대해 알아보세요."

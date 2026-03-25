@@ -127,14 +127,19 @@
     "heading": "我們引以為豪的贊助商",
     "brands": [
       {
-        "name": "Canadian Joysticks",
+        "name": "加拿大搖桿",
         "logo": "cj.png",
         "url": "https://canadianjoysticks.com/"
       },
       {
-        "name": "Licious 義大利美食與餐飲服務",
-        "logo": "licious.png",
-        "url": "https://liciousbakerycafe.ca/"
+        "name": "多納利愛爾蘭酒館",
+        "logo": "donaleighs.png",
+        "url": "https://donaleighs.com/"
+      },
+      {
+        "name": "卡牌與杯墊",
+        "logo": "cac.png",
+        "url": "https://cardsandcoasters.com/"
       }
     ],
     "contactUs": "聯絡我們，了解更多經濟實惠的廣告贊助機會。"
