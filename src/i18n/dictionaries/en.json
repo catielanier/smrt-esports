@@ -77,22 +77,6 @@
       ]
     },
     {
-      "name": "King of the Hill",
-      "logo": "king-of-the-hill.png",
-      "paragraphs": [
-        "Our annual eSports competition at YetiCon in Blue Mountain, Ontario.  The event hosts over 200 exhibitors and hundreds of attendees.",
-        "We will be hosting our first annual King of The Hill competition there for the convention goers and our fighting game community members."
-      ],
-      "url": "https://start.gg/hooyeah",
-      "sublinks": [
-        {
-          "text": "Watch the restream from June 19th at",
-          "url": "https://twitch.tv/barriewhiffcity",
-          "linkText": "twitch.tv/barriewhiffcity"
-        }
-      ]
-    },
-    {
       "name": "6ix Fighters League",
       "logo": "6ix.png",
       "paragraphs": [
