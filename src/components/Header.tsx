@@ -62,7 +62,7 @@ export default function Header({ dict }: { dict: any }) {
             <Link href="https://x.com/SMRTesports" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faXTwitter} />
             </Link>
-            <Link href="https://bsky.app/profile/smrtesports.bsky.social" target="_blank" rel="noopener noreferrer">
+            <Link href="https://bsky.app/profile/smrtesports.com" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faBluesky} />
             </Link>
             <Link href="https://www.instagram.com/smrtesports/" target="_blank" rel="noopener noreferrer">
