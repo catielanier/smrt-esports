@@ -68,7 +68,7 @@ export default async function Home({
               {dict.events.map((event, idx) => (
                 <div
                   key={idx}
-                  className={`grid auto-rows-auto md:grid-rows-[1fr,2fr] md:h-full px-4 py-5 mb-4 md:mb-0 ${idx % 2 === 0 ? 'bg-accent text-background' : 'bg-secondary'}`}
+                  className={`grid auto-rows-auto md:grid-rows-[1fr,2fr] md:h-full px-4 py-5 mb-4 md:mb-0 ${idx % 2 === 0 ? 'bg-secondary' : 'bg-accent text-background'}`}
                 >
                   <div className="flex justify-center items-center overflow-hidden">
                     <a href={event.url} target="_blank" rel="noreferrer noopener">
@@ -77,7 +77,7 @@ export default async function Home({
                   </div>
 
                   <div>
-                    <h3 className={`font-heading py-4 text-2xl ${idx % 2 === 0 ? 'text-secondary' : 'text-accent'}`}>
+                    <h3 className={`font-heading py-4 text-2xl ${idx % 2 === 0 ? 'text-accent' : 'text-secondary'}`}>
                       {event.name}
                     </h3>
                     {event.paragraphs.map((p, i) => (
@@ -88,14 +88,14 @@ export default async function Home({
                     {event.sublinks.map((link) => (
                       <React.Fragment key={link.linkText}>
                         <p
-                          className={`font-heading py-0 text-m text-left ${idx % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
+                          className={`font-heading py-0 text-m text-left ${idx % 2 === 0 ? 'text-accent' : 'text-secondary'}`}
                         >
                           {link.text}
                         </p>
                         <p
-                          className={`font-heading py-2 text-sm text-left underline ${idx % 2 === 0 ? 'text-secondary' : 'text-accent'}`}
+                          className={`font-heading py-2 text-sm text-left underline ${idx % 2 === 0 ? 'text-accent' : 'text-secondary'}`}
                         >
-                          <a href={link.url} className={idx % 2 === 0 ? 'text-background' : undefined}>
+                          <a href={link.url} className={idx % 2 === 0 ? undefined : 'text-background'}>
                             {link.linkText}
                           </a>
                         </p>
